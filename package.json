@@ -19,11 +19,11 @@
 		"Extension Packs"
 	],
 	"repository": {
-		"url": ""
+		"url": "https://github.com/BroadcomMFD/code4z"
 	},
-	"homepage": "",
+	"homepage": "https://github.com/BroadcomMFD/code4z",
 	"bugs": {
-		"url": ""
+		"url": "https://github.com/BroadcomMFD/code4z/issues"
 	},
 	"extensionPack": [
 		"broadcomMFD.cobol-language-support",
