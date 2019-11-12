@@ -1,0 +1,33 @@
+{
+	"name": "code4z-extension-pack",
+	"displayName": "Code4z",
+	"description": "Mainframe basic pack for developers working with the z/OS applications",
+	"version": "1.0.0",
+	"publisher": "broadcomMFD",
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#f0efe7",
+		"theme": "light"
+	},
+	"engines": {
+		"vscode": "^1.10.0"
+	},
+	"keywords": [
+		"mainframe", "zowe", "cobol", "dataset", "mainframe", "explorer", "endevor", "jcl", "uss"
+	],
+	"categories": [
+		"Extension Packs"
+	],
+	"repository": {
+		"url": ""
+	},
+	"homepage": "",
+	"bugs": {
+		"url": ""
+	},
+	"extensionPack": [
+		"broadcomMFD.cobol-language-support",
+		"Zowe.vscode-extension-for-zowe",
+		"broadcomMFD.explorer-for-endevor"
+	]
+}
