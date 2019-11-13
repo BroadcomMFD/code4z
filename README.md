@@ -29,6 +29,7 @@ Planned additions include support for other languages like HLASM and support for
 * [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) - VS Code extension, powered by Zowe CLI, that streamlines interaction with mainframe data sets, USS files, and jobs
 * [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) - COBOL Language Support standardizes the communication between language tooling and your code editor using the Language Server Protocol (LSP)
 * [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor) - Explorer for Endevor gives you the ability to Browse and Retrieve CA Endevor® SCM elements using a user-friendly, intuitive interface
+* [COBOL](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol) - Syntax highlighting for COBOL, JCL, PL/I and MF directive files
 
 ## Prerequisites
 
@@ -42,9 +43,6 @@ Planned additions include support for other languages like HLASM and support for
 ### Explorer for Endevor
 * Access to CA Endevor® 
 * Installed and configured CA Endevor® Web Services
-
-### COBOL Language support
-* [COBOL extension](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol#review-details) - For syntax highlighting
 
 ## Sample Workflows
 

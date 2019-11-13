@@ -28,6 +28,7 @@
 	"extensionPack": [
 		"broadcomMFD.cobol-language-support",
 		"Zowe.vscode-extension-for-zowe",
-		"broadcomMFD.explorer-for-endevor"
+		"broadcomMFD.explorer-for-endevor",
+		"bitlang.cobol"
 	]
 }
