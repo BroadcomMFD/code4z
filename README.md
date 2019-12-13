@@ -37,15 +37,7 @@ Planned additions include support for other languages like HLASM and support for
 ## Prerequisites
 
 * Java installed on your PC
-
-### Zowe Explorer
-* Access to Mainframe
-* Zowe CLI - [How to install Zowe CLI on your PC](https://docs.zowe.org/stable/user-guide/cli-installcli.html#methods-to-install-zowe-cli)
-* Create at least one [Zowe CLI 'zosmf' profile.](https://docs.zowe.org/stable/user-guide/cli-configuringcli.html#creating-zowe-cli-profiles)
-
-### Explorer for Endevor
-* Access to CA Endevor® 
-* Installed and configured CA Endevor® Web Services
+* For information about the prerequisites of individual extensions, refer to the links in the section above.
 
 ## Sample Workflows
 
