@@ -18,7 +18,7 @@ Powered by open source projects Zowe and Che4z, Code4z offers mainframe applicat
 * Edit JCL with basic syntax highlighting
 * Optionally, pair and use with Zowe CLI 
 
-Planned additions include support for other languages like HLASM and support for automated testing. Many of these extensions, and other mainframe-oriented innovations, will also be available as part of Eclipse Che subproject Che4z.
+Many of these extensions, and other mainframe-oriented innovations, are also available as part of Eclipse Che subproject [Che4z](https://www.eclipse.org/che/docs/che-7/eclipse-che4z/).
 <br /><br />
 <p align="center">
   <img src="extensions.png" alt="Code4z Extensions"/>
