@@ -21,7 +21,7 @@ Powered by open source projects Zowe and Che4z, Code4z offers mainframe applicat
 Many of these extensions, and other mainframe-oriented innovations, are also available as part of Eclipse Che subproject [Che4z](https://www.eclipse.org/che/docs/che-7/eclipse-che4z/).
 <br /><br />
 <p align="center">
-  <img src="extensions.png" alt="Code4z Extensions"/>
+  <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/1.1.0/extensions.png" alt="Code4z Extensions"/>
 </p>
 
 ## Extensions Included
