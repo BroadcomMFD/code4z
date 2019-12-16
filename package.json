@@ -2,7 +2,7 @@
 	"name": "code4z-extension-pack",
 	"displayName": "Code4z",
 	"description": "Mainframe basic pack for developers working with the z/OS applications",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"publisher": "broadcomMFD",
 	"icon": "icon.png",
 	"galleryBanner": {
@@ -29,6 +29,8 @@
 		"broadcomMFD.cobol-language-support",
 		"Zowe.vscode-extension-for-zowe",
 		"broadcomMFD.explorer-for-endevor",
+		"broadcomMFD.hlasm-language-support",
+		"broadcomMFD.debugger-for-mainframe",
 		"bitlang.cobol"
 	]
 }
