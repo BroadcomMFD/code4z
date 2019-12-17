@@ -14,7 +14,9 @@ Powered by open source projects Zowe and Che4z, Code4z offers mainframe applicat
 * View and download job output 
 * Issue TSO commands
 * Retrieve, browse and search CA Endevor® elements
-* Edit COBOL code with Syntax highlighting, real time syntax validation, content assist and other advanced features 
+* Edit COBOL and HLASM code with Syntax highlighting, real time syntax validation, content assist and other advanced features 
+* Trace HLASM macros
+* Debug COBOL code for applications running in a CICS region
 * Edit JCL with basic syntax highlighting
 * Optionally, pair and use with Zowe CLI 
 
@@ -54,3 +56,12 @@ Many of these extensions, and other mainframe-oriented innovations, are also ava
 
 * View code elements in the entire map of Endevor using the Explorer for Endevor Extension. Editing is not allowed, but the COBOL Language Support will provide syntax highlighting for COBOL elements.
 * Download code elements, including their dependencies, using the Explorer for Endevor extension and add it to the git project if code modifications are needed.
+
+### Debugger for Mainframe
+
+* Provide InterTest server location, CICS region, credentials and program/transaction name (either by file or input form).
+* Obtain the listing and define breakpoints.
+* Start a debug session after triggering the CICS transaction.
+* Display variable values and change variable values
+* Stop at designated breakpoints, continue from designated breakpoint and step through the listing.
+* Close debug session.
