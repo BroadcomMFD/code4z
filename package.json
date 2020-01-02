@@ -13,7 +13,7 @@
 		"vscode": "^1.10.0"
 	},
 	"keywords": [
-		"mainframe", "zowe", "cobol", "dataset", "mainframe", "explorer", "endevor", "jcl", "uss"
+		"z/OS", "zos", "lsp", "assembler", "hlasm", "zowe", "cobol", "dataset", "mainframe", "explorer", "endevor", "jcl", "uss", "debugger", "ca-intertest", "cics"
 	],
 	"categories": [
 		"Extension Packs"
