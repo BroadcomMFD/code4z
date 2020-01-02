@@ -6,6 +6,9 @@ Powered by open source projects Zowe and Che4z, Code4z offers mainframe applicat
 
 > How can we improve Code4z? Let us know on the [Git Repository](https://github.com/BroadcomMFD/code4z/issues)
 
+## What’s New
+
+* [HLASM Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support)  and [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) are now a part of the Code4z package
 ## Features
 
 * Access z/OS Datasets
