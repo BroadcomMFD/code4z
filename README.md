@@ -1,6 +1,6 @@
 # Code4z
 
-Mainframe starter pack for Developers working with z/OS applications. **GET IRD OF THIS SENTENCE / COME UP WITH BETTER INTRO**
+Mainframe starter pack for Developers working with z/OS applications. **GET RID OF THIS SENTENCE / COME UP WITH BETTER INTRO**
 
  Code4z offers mainframe application developers a modern, familiar and seamless experience.
 
@@ -8,7 +8,7 @@ Mainframe starter pack for Developers working with z/OS applications. **GET IRD 
   <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/1.1.0/extensions.png" alt="Code4z Extensions"/>
 </p>
 
-Powered by open source projects Zowe and [Che4z](https://www.eclipse.org/che/docs/che-7/eclipse-che4z/). Many of these extensions, and other mainframe-oriented innovations, are also available as part of Eclipse Che subproject 
+Powered by open source projects [Zowe](https://www.zowe.org/) and [Che4z](https://www.eclipse.org/che/docs/che-7/eclipse-che4z/). Many of these extensions, and other mainframe-oriented innovations, are also available as part of Eclipse Che subproject 
 
 ## What’s New
 
@@ -27,7 +27,9 @@ Powered by open source projects Zowe and [Che4z](https://www.eclipse.org/che/doc
 
 COBOL Language Support standardizes the communication between language tooling and your code editor using the Language Server Protocol (LSP)
 
-> How can we improve COBOL Language Support? [Let us know on our Git repository](https://github.com/zowe/vscode-extension-for-zowe/issues)
+In order to have an enhanced experience while working with a COBOL Languge Support, Code4z package includes a bitlang [COBOL extension](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol), hence giving user an ability to leverage syntax highlighting.
+
+> How can we improve COBOL Language Support? [Let us know on our Git repository](https://github.com/eclipse/che-che4z-lsp-for-cobol/issues)
 
 ### Features
 * Edit COBOL code with Syntax highlighting, real time syntax validation, content assist and other advanced features
@@ -39,7 +41,7 @@ COBOL Language Support standardizes the communication between language tooling a
 [![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://join.slack.com/t/che4z/shared_invite/enQtNzk0MzA4NDMzOTIwLWIzMjEwMjJlOGMxNmMyNzQ1NWZlMzkxNmQ3M2VkYWNjMmE0MGQ0MjIyZmY3MTdhZThkZDg3NGNhY2FmZTEwNzQ)
 
 
-> How can we improve HLASM Language Support? [Let us know on our Git repository](https://github.com/zowe/vscode-extension-for-zowe/issues)
+> How can we improve HLASM Language Support? [Let us know on our Git repository](https://github.com/eclipse/che-che4z-lsp-for-hlasm/issues)
 
 Code completion, highlighting, browsing and validation for High Level Assembler
 
@@ -51,7 +53,6 @@ Code completion, highlighting, browsing and validation for High Level Assembler
 
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Zowe.vscode-extension-for-zowe?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)
 [![GitHub issues](https://img.shields.io/github/issues-raw/zowe/vscode-extension-for-zowe?style=flat-square)](https://github.com/zowe/vscode-extension-for-zowe/issues)
-[![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://join.slack.com/t/che4z/shared_invite/enQtNzk0MzA4NDMzOTIwLWIzMjEwMjJlOGMxNmMyNzQ1NWZlMzkxNmQ3M2VkYWNjMmE0MGQ0MjIyZmY3MTdhZThkZDg3NGNhY2FmZTEwNzQ)
 
 Zowe Explorer is a VS Code extension powered by Zowe CLI that streamlines interaction with mainframe data sets, USS files, and jobs
 
@@ -83,6 +84,9 @@ SUPPORTS GIT BRIDGE sentence / LINK TO YOUTUBE VIDEO**
 * Retrieve, browse and search CA Endevor® elements
 
 ## [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/broadcomMFD.debugger-for-mainframe?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe)
+[![GitHub issues](https://img.shields.io/github/issues-raw/broadcomMFD/debugger-for-mainframe?style=flat-square)](https://github.com/BroadcomMFD/debugger-for-mainframe/issues)
+[![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://join.slack.com/t/che4z/shared_invite/enQtNzk0MzA4NDMzOTIwLWIzMjEwMjJlOGMxNmMyNzQ1NWZlMzkxNmQ3M2VkYWNjMmE0MGQ0MjIyZmY3MTdhZThkZDg3NGNhY2FmZTEwNzQ)
 
 Debugger for Mainframe provides the debugging interface to [CA InterTest™](https://www.broadcom.com/products/mainframe/product-portfolio/intertest-batch). This extension provides a modern debug experience for COBOL applications running in a CICS region
 
