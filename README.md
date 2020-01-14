@@ -76,7 +76,7 @@ Zowe Explorer is a VS Code extension powered by Zowe CLI that streamlines intera
 Explorer for Endevor gives you the ability to Browse and Retrieve CA Endevor® SCM elements using a user-friendly, intuitive interface
 
 > **This extension 
-SUPPORTS BRIDGE for Git sentence, see the [Bridge for Git video](https://youtu.be/sjnZuQpUVM4)**
+supports BRIDGE for Git, see the [Bridge for Git video](https://youtu.be/sjnZuQpUVM4)**
 
 
 ### Features
