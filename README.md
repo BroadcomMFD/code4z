@@ -92,27 +92,22 @@ Debugger for Mainframe provides the debugging interface to [CA InterTest™](htt
 
 ## Sample Workflows
 
-### COBOL Language Support and CA Endevor Git Bridge
+### COBOL Language Support using CA Endevor Git Bridge and Explorer for Endevor
 * Use VS Code’s built-in git interface to git clone source code from CA Endevor using Endevor’s Git Bridge
 * Edit COBOL code using the COBOL Language Support, taking advantage of all the coding assistance provided by the extension
 * Use VS Code’s built-in git interface to push, pull and merge changes
-
-**// Combine the both workflows into one, change the headlines**
-
-### COBOL Language Support and Explorer for Endevor
-
-* View code elements in the entire map of Endevor using the Explorer for Endevor Extension. Editing is not allowed, but the COBOL Language Support will provide syntax highlighting for COBOL elements.
-* Download code elements, including their dependencies, using the Explorer for Endevor extension and add it to the git project if code modifications are needed.
+* Eventually, search and browse additional code elements in the entire map of Endevor using the Explorer for Endevor extension. Editing is not allowed, but the COBOL Language Support will provide syntax awareness for COBOL elements
+* Download code elements, including their dependencies, using the Explorer for Endevor extension into the current workspace  to by synchronized witch the Git project if code modifications are needed
 
 ### Debugger for Mainframe
 
-* Provide InterTest server location, CICS region, credentials and program/transaction name (either by file or input form).
-* Obtain the listing and define breakpoints.
-* Start a debug session after triggering the CICS transaction.
+* Provide InterTest server location, CICS region, credentials and program/transaction name (either by file or input form)
+* Obtain the listing and define breakpoints
+* Start a debug session after triggering the CICS transaction
 * Display variable values and change variable values
-* Stop at designated breakpoints, continue from designated breakpoint and step through the listing.
-* Close debug session.
+* Stop at designated breakpoints, continue from designated breakpoint and step through the listing
+* Close debug session
 
-### Zowe Explorer and Developer Testing / consider getting rid of this part and think about wo
+### Zowe Explorer and Developer Testing
 
-* Unit test code changes by submitting batch jobs. Access JCL in datasets using Zowe Explorer and submit them to the target z/OS system. View the results on the VS Code editor allowing quick and easy batch based unit testing of their code changes.
+* Unit test code changes by submitting batch jobs. Access JCL in datasets using Zowe Explorer and submit them to the target z/OS system. View the results on the VS Code editor allowing quick and easy batch based unit testing of their code changes
