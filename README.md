@@ -1,14 +1,12 @@
 # Code4z
 
-Code4z is an all-in-one Mainframe starter pack for Developers working with z/OS applications, suitable for all levels of mainframe experience, even beginners!
-
-Code4z offers mainframe application developers a modern, familiar and seamless experience, which helps to overcome some developer's reservations or concerns about the traditional mainframe user experience.
+Code4z is an all-in-one Mainframe extension package for Developers working with z/OS applications, suitable for all levels of mainframe experience, even beginners. Code4z offers mainframe application developers a modern, familiar and seamless experience, which helps to overcome some developer's reservations or concerns about the traditional mainframe user experience.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/1.1.0/extensions.png" alt="Code4z Extensions"/>
 </p>
 
-Powered by open source projects Zowe and [Che4z](https://www.eclipse.org/che/docs/che-7/eclipse-che4z/). Many of these extensions, and other mainframe-oriented innovations, are also available as part of Eclipse Che subproject 
+Powered by open source projects Zowe and [Che4z](https://www.eclipse.org/che/docs/che-7/eclipse-che4z/). Many of these extensions, and other mainframe-oriented innovations, are also available as part of Eclipse Che sub-project 
 
 ## What’s New
 
