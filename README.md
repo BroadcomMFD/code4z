@@ -76,7 +76,7 @@ Zowe Explorer is a VS Code extension powered by Zowe CLI that streamlines intera
 Explorer for Endevor gives you the ability to Browse and Retrieve CA Endevor® SCM elements using a user-friendly, intuitive interface
 
 > **This extension 
-SUPPORTS GIT BRIDGE sentence / LINK TO YOUTUBE VIDEO**
+SUPPORTS BRIDGE for Git sentence, see the [Bridge for Git video](https://youtu.be/sjnZuQpUVM4)**
 
 
 ### Features
@@ -92,8 +92,8 @@ Debugger for Mainframe provides the debugging interface to [CA InterTest™](htt
 
 ## Sample Workflows
 
-### COBOL Language Support using CA Endevor Git Bridge and Explorer for Endevor
-* Use VS Code’s built-in git interface to git clone source code from CA Endevor using Endevor’s Git Bridge
+### COBOL Language Support using CA Endevor Bridge for Git and Explorer for Endevor
+* Use VS Code’s built-in git interface to git clone source code from CA Endevor using Endevor’s Bridge for Git
 * Edit COBOL code using the COBOL Language Support, taking advantage of all the coding assistance provided by the extension
 * Use VS Code’s built-in git interface to push, pull and merge changes
 * Eventually, search and browse additional code elements in the entire map of Endevor using the Explorer for Endevor extension. Editing is not allowed, but the COBOL Language Support will provide syntax awareness for COBOL elements
