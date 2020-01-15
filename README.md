@@ -17,7 +17,7 @@ Powered by open source projects [Zowe](https://www.zowe.org/) and [Che4z](https:
 ## Prerequisites
 
 * Java installed on your PC
-* For information about the prerequisites of individual extensions, refer to the links in the section below.
+* For information about the prerequisites, refer to individual extensions in the section below.
 
 ## [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support)
 
@@ -34,16 +34,18 @@ In order to have an enhanced experience while working with a COBOL Languge Suppo
 ### Features
 * Edit COBOL code with Syntax highlighting, real time syntax validation, content assist and other advanced features
 
+### Blogs
+* [Beginner’s Guide: COBOL Made Easy](https://medium.com/modern-mainframe/beginners-guide-cobol-made-easy-introduction-ecf2f611ac76)
+
 ## [HLASM Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) 
 
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/broadcomMFD.hlasm-language-support?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support)
 [![GitHub issues](https://img.shields.io/github/issues-raw/eclipse/che-che4z-lsp-for-hlasm?style=flat-square)](https://github.com/eclipse/che-che4z-lsp-for-hlasm/issues)
 [![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://join.slack.com/t/che4z/shared_invite/enQtNzk0MzA4NDMzOTIwLWIzMjEwMjJlOGMxNmMyNzQ1NWZlMzkxNmQ3M2VkYWNjMmE0MGQ0MjIyZmY3MTdhZThkZDg3NGNhY2FmZTEwNzQ)
 
+Code completion, highlighting, browsing and validation for High Level Assembler
 
 > How can we improve HLASM Language Support? [Let us know on our Git repository](https://github.com/eclipse/che-che4z-lsp-for-hlasm/issues)
-
-Code completion, highlighting, browsing and validation for High Level Assembler
 
 ### Features
 * Edit HLASM code with Syntax highlighting, real time syntax validation, content assist and other advanced features
@@ -53,6 +55,7 @@ Code completion, highlighting, browsing and validation for High Level Assembler
 
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Zowe.vscode-extension-for-zowe?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)
 [![GitHub issues](https://img.shields.io/github/issues-raw/zowe/vscode-extension-for-zowe?style=flat-square)](https://github.com/zowe/vscode-extension-for-zowe/issues)
+[![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://openmainframeproject.slack.com/)
 
 Zowe Explorer is a VS Code extension powered by Zowe CLI that streamlines interaction with mainframe data sets, USS files, and jobs
 
@@ -72,9 +75,9 @@ Zowe Explorer is a VS Code extension powered by Zowe CLI that streamlines intera
 [![GitHub issues](https://img.shields.io/github/issues-raw/eclipse/che-che4z-explorer-for-endevor?style=flat-square)](https://github.com/eclipse/che-che4z-explorer-for-endevor/issues)
 [![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://join.slack.com/t/che4z/shared_invite/enQtNzk0MzA4NDMzOTIwLWIzMjEwMjJlOGMxNmMyNzQ1NWZlMzkxNmQ3M2VkYWNjMmE0MGQ0MjIyZmY3MTdhZThkZDg3NGNhY2FmZTEwNzQ)
 
-> How can we improve Explorer for Endevor? [Let us know on our Git repository](https://github.com/zowe/vscode-extension-for-zowe/issues)
-
 Explorer for Endevor gives you the ability to Browse and Retrieve CA Endevor® SCM elements using a user-friendly, intuitive interface
+
+> How can we improve Explorer for Endevor? [Let us know on our Git repository](https://github.com/eclipse/che-che4z-explorer-for-endevor/issues)
 
 > **This extension 
 supports BRIDGE for Git, see the [Bridge for Git video](https://youtu.be/sjnZuQpUVM4)**
@@ -89,6 +92,8 @@ supports BRIDGE for Git, see the [Bridge for Git video](https://youtu.be/sjnZuQp
 [![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://join.slack.com/t/che4z/shared_invite/enQtNzk0MzA4NDMzOTIwLWIzMjEwMjJlOGMxNmMyNzQ1NWZlMzkxNmQ3M2VkYWNjMmE0MGQ0MjIyZmY3MTdhZThkZDg3NGNhY2FmZTEwNzQ)
 
 Debugger for Mainframe provides the debugging interface to [CA InterTest™](https://www.broadcom.com/products/mainframe/product-portfolio/intertest-batch). This extension provides a modern debug experience for COBOL applications running in a CICS region
+
+> How can we improve Debugger for Mainframe? [Let us know on our Git repository](https://github.com/BroadcomMFD/debugger-for-mainframe/issues)
 
 ### Features
 
