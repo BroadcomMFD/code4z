@@ -17,7 +17,7 @@ Powered by open source projects [Zowe](https://www.zowe.org/) and [Che4z](https:
 ## Prerequisites
 
 * Java installed on your PC
-* For information about the prerequisites, refer to individual extensions in the section below.
+* Individual extension prerequisites are detailed in the section below.
 
 ## [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support)
 
@@ -27,7 +27,7 @@ Powered by open source projects [Zowe](https://www.zowe.org/) and [Che4z](https:
 
 COBOL Language Support standardizes the communication between language tooling and your code editor using the Language Server Protocol (LSP)
 
-In order to have an enhanced experience while working with a COBOL Languge Support, Code4z package includes a bitlang [COBOL extension](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol), hence giving user an ability to leverage syntax highlighting.
+Code4z package includes a bitlang [COBOL extension](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol) which provides an enhanced experience while working with a COBOL Languge Support, giving the ability to leverage syntax highlighting.
 
 > How can we improve COBOL Language Support? [Let us know on our Git repository](https://github.com/eclipse/che-che4z-lsp-for-cobol/issues)
 
