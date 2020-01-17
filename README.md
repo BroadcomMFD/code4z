@@ -8,7 +8,7 @@ Code4z offers mainframe application developers a modern, familiar and seamless e
   <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/1.1.0/extensions.png" alt="Code4z Extensions"/>
 </p>
 
-Powered by open-source projects [Zowe](https://www.zowe.org/) and [Che4z](https://www.eclipse.org/che/docs/che-7/eclipse-che4z/). Many of these extensions, and other mainframe-oriented innovations, are also available as part of the Eclipse Che subproject 
+Code4z is powered by open-source projects [Zowe](https://www.zowe.org/) and [Che4z](https://www.eclipse.org/che/docs/che-7/eclipse-che4z/). Many of these extensions, and other mainframe-oriented innovations, are also available as part of the Eclipse Che subproject 
 
 ## What’s New
 
