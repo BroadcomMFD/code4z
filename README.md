@@ -104,7 +104,7 @@ Debugger for Mainframe provides the debugging interface to [CA InterTest™ for 
 * Edit COBOL code using the COBOL Language Support, taking advantage of all the coding assistance provided by the extension.
 * Use VS Code’s built-in git interface to push, pull and merge changes.
 * Eventually, search and browse additional code elements in the entire map of Endevor using the Explorer for Endevor extension. Editing is not allowed, but the COBOL Language Support will provide syntax awareness for COBOL elements.
-* Download code elements, including their dependencies, using the Explorer for Endevor extension into the current workspace  to by synchronized witch the Git project if code modifications are needed.
+* Download code elements, including their dependencies, using the Explorer for Endevor extension into the current workspace to be synchronized with the Git project if code modifications are needed.
 
 ### Debugger for Mainframe
 
