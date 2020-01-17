@@ -8,7 +8,7 @@ Code4z offers mainframe application developers a modern, familiar and seamless e
   <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/1.1.0/extensions.png" alt="Code4z Extensions"/>
 </p>
 
-Powered by open source projects [Zowe](https://www.zowe.org/) and [Che4z](https://www.eclipse.org/che/docs/che-7/eclipse-che4z/). Many of these extensions, and other mainframe-oriented innovations, are also available as part of Eclipse Che subproject 
+Powered by open source projects [Zowe](https://www.zowe.org/) and [Che](https://www.eclipse.org/che/). Many of these extensions, and other mainframe-oriented innovations, are also available as part of open source [Eclipse Che4z subproject](https://github.com/eclipse/che-che4z).
 
 ## What’s New
 
@@ -77,7 +77,7 @@ Zowe Explorer is a VS Code extension powered by Zowe CLI that streamlines intera
 
 Explorer for Endevor gives you the ability to Browse and Retrieve [CA Endevor® SCM](https://www.broadcom.com/products/mainframe/devops-app-development/app/endevor-software-change-manager) elements using a user-friendly, intuitive interface.
 
-It offers best developer experience in synergy with [Bridge for Git](https://youtu.be/sjnZuQpUVM4), a solution which enables you to concurrently work in Git and mainframe.
+This extension offers best developer experience in synergy with [Bridge for Git](https://youtu.be/sjnZuQpUVM4), a solution which enables you to concurrently work in Git and mainframe.
 
 > How can we improve Explorer for Endevor? [Let us know on our Git repository](https://github.com/eclipse/che-che4z-explorer-for-endevor/issues)
 
