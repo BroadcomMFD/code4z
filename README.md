@@ -16,7 +16,7 @@ Code4z is powered by open-source projects [Zowe](https://www.zowe.org/) and [Che
 
 ## Prerequisites
 
-* Java installed on your PC.
+* Java installed on your machine.
 * Individual extension prerequisites are detailed in the sections below.
 
 ## [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support)
