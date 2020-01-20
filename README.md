@@ -101,21 +101,21 @@ Debugger for Mainframe provides the debugging interface to [CA InterTest™ for 
 ## Sample Workflows
 
 ### COBOL Language Support using CA Endevor Bridge for Git and Explorer for Endevor
-* Use VS Code’s built-in git interface to git clone source code from CA Endevor using Endevor’s Bridge for Git.
-* Edit COBOL code using the COBOL Language Support, taking advantage of all the coding assistance provided by the extension.
-* Use VS Code’s built-in git interface to push, pull and merge changes.
+* Use VS Code’s built-in Git interface to clone source code from CA Endevor using Endevor’s Bridge for Git.
+* Edit COBOL code using COBOL Language Support, taking advantage of all the coding assistance provided by the extension.
+* Use VS Code’s built-in Git interface to push, pull and merge changes.
 * Eventually, search and browse additional code elements in the entire map of Endevor using the Explorer for Endevor extension. Editing is not allowed, but the COBOL Language Support will provide syntax awareness for COBOL elements.
-* Download code elements, including their dependencies, using the Explorer for Endevor extension into the current workspace to be synchronized with the Git project if code modifications are needed.
+* Download code elements, including their dependencies, using the Explorer for Endevor extension into the current workspace, and synchronize them with the Git project if code modifications are needed.
 
 ### Debugger for Mainframe
 
 * Provide InterTest server location, CICS region, credentials and program/transaction name (either by file or input form).
 * Obtain the listing and set breakpoints.
-* Start a debug session after triggering the CICS transaction.
-* Display variable values and change variable values.
+* Triggering the CICS transaction and start a debug session.
+* Display and change variable values.
 * Stop at designated breakpoints, continue from a designated breakpoint and step through the listing.
 * Close the debug session.
 
 ### Zowe Explorer and Zowe CLI
 
-* Access mainframe files and execute jobs from both an interactive graphical interface  or in the terminal with CLI. Whether you want to view a pds or allocate a dataset, change JCL, submit a mainframe compile, download or upload files, both interfaces provide these capabilities.
+* Access mainframe files and execute jobs, either from an interactive graphical interface or in the terminal with CLI. Whether you want to view a PDS, allocate a dataset, change a JCL, submit a mainframe compile, or download and upload files, both interfaces provide these capabilities.
