@@ -118,4 +118,4 @@ Debugger for Mainframe provides the debugging interface to [CA InterTest™ for 
 
 ### Zowe Explorer and Zowe CLI
 
-* Access mainframe files and execute jobs from both and interactive graphical interface  or in the terminal with CLI. Whether you want to view a pds or allocate a dataset, change JCL, submit a mainframe compile, download or upload files, both interfaces provide these capabilities.
+* Access mainframe files and execute jobs from both an interactive graphical interface  or in the terminal with CLI. Whether you want to view a pds or allocate a dataset, change JCL, submit a mainframe compile, download or upload files, both interfaces provide these capabilities.
