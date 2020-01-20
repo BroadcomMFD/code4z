@@ -104,14 +104,14 @@ Debugger for Mainframe provides the debugging interface to [CA InterTest™ for 
 * Use VS Code’s built-in Git interface to clone source code from CA Endevor using Endevor’s Bridge for Git.
 * Edit COBOL code using COBOL Language Support, taking advantage of all the coding assistance provided by the extension.
 * Use VS Code’s built-in Git interface to push, pull and merge changes.
-* Eventually, search and browse additional code elements in the entire map of Endevor using the Explorer for Endevor extension. Editing is not allowed, but the COBOL Language Support will provide syntax awareness for COBOL elements.
+* Search and browse additional code elements in the entire map of Endevor using the Explorer for Endevor extension. The COBOL Language Support provides syntax awareness for COBOL elements.
 * Download code elements, including their dependencies, using the Explorer for Endevor extension into the current workspace, and synchronize them with the Git project if code modifications are needed.
 
 ### Debugger for Mainframe
 
 * Provide InterTest server location, CICS region, credentials and program/transaction name (either by file or input form).
 * Obtain the listing and set breakpoints.
-* Triggering the CICS transaction and start a debug session.
+* Trigger the CICS transaction and start a debug session.
 * Display and change variable values.
 * Stop at designated breakpoints, continue from a designated breakpoint and step through the listing.
 * Close the debug session.
