@@ -26,9 +26,9 @@ Powered by open source projects [Zowe](https://www.zowe.org/) and [Che](https://
 [![GitHub issues](https://img.shields.io/github/issues-raw/eclipse/che-che4z-lsp-for-cobol?style=flat-square)](https://github.com/eclipse/che-che4z-lsp-for-cobol/issues)
 [![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://join.slack.com/t/che4z/shared_invite/enQtNzk0MzA4NDMzOTIwLWIzMjEwMjJlOGMxNmMyNzQ1NWZlMzkxNmQ3M2VkYWNjMmE0MGQ0MjIyZmY3MTdhZThkZDg3NGNhY2FmZTEwNzQ)
 
-COBOL Language Support standardizes the communication between language tooling and your code editor using the Language Server Protocol (LSP).
+COBOL Language Support provides autocomplete, highlighting and diagnostic features for COBOL code and copybooks.
 
-The Code4z package includes a bitlang [COBOL extension](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol) which provides an enhanced experience while working with COBOL Languge Support, giving the ability to leverage syntax coloring.
+The Code4z package includes a bitlang [COBOL extension](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol) which provides an enhanced experience while working with COBOL Language Support and enables syntax coloring.
 
 > How can we improve COBOL Language Support? [Let us know on our Git repository](https://github.com/eclipse/che-che4z-lsp-for-cobol/issues)
 
