@@ -1,6 +1,6 @@
-## [1.1.1] 2019-12-16
+## [1.1.1] 2020-01-21
 
-- Major readme redesign and small package.json changes
+- Major readme redesign and minor package.json changes
 
 ## [1.1.0] 2019-12-16
 
