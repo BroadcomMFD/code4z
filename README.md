@@ -2,7 +2,7 @@
 
 Code4z is an all-in-one mainframe extension package for developers working with z/OS applications, suitable for all levels of mainframe experience, even beginners.
 
-Code4z offers mainframe application developers a modern, familiar, and seamless experience, which helps to overcome some developers' reservations or concerns about the traditional mainframe user experience.
+Mainframe application developers can use the Code4z package for a modern, familiar, and seamless experience, which helps to overcome some developers' reservations or concerns about the traditional mainframe user experience.
 
 Developers can now find the code they need to work on in Explorer for Endevor and Zowe Explorer, edit using COBOL or HLASM Language Support, and test the resulting code with the Debugger, all in one Mainframe development package.
 
