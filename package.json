@@ -1,8 +1,8 @@
 {
 	"name": "code4z-extension-pack",
 	"displayName": "Code4z",
-	"description": "Mainframe basic pack for developers working with the z/OS applications",
-	"version": "1.1.0",
+	"description": "Mainframe pack for developers working with the z/OS applications",
+	"version": "1.1.1",
 	"publisher": "broadcomMFD",
 	"icon": "icon.png",
 	"galleryBanner": {
@@ -18,13 +18,6 @@
 	"categories": [
 		"Extension Packs"
 	],
-	"repository": {
-		"url": "https://github.com/BroadcomMFD/code4z"
-	},
-	"homepage": "https://github.com/BroadcomMFD/code4z",
-	"bugs": {
-		"url": "https://github.com/BroadcomMFD/code4z/issues"
-	},
 	"extensionPack": [
 		"broadcomMFD.cobol-language-support",
 		"Zowe.vscode-extension-for-zowe",
