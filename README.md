@@ -15,7 +15,8 @@ Powered by open source projects [Zowe](https://www.zowe.org/) and [Che](https://
 
 ## What’s New
 
-* 2019-12-16 - [HLASM Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support)  and [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) are now a part of the Code4z package.
+* 2020-04-20 - [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) (v1.1) now supports conditional breakpoints, logpoints and hitcounts.
+* 2020-04-09 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (v0.11) now supports automatic downloading of copybooks and downloading of nested copybooks.
 
 ## Prerequisites
 
