@@ -21,7 +21,7 @@ Powered by open source projects [Zowe](https://www.zowe.org/) and [Che](https://
 ## Prerequisites
 
 * Java installed on your machine.
-* Individual extension prerequisites are detailed in the sections below.
+* Individual extension prerequisites are detailed in the individual readme files linked below.
 
 ## [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support)
 
