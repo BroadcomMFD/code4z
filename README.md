@@ -56,6 +56,9 @@ Code completion, highlighting, browsing and validation for High Level Assembler 
 * Edit HLASM code with syntax highlighting, real time syntax validation, content assist and other advanced features.
 * Trace HLASM macros.
 
+### Links
+* [HLASM Language Support Wiki](https://github.com/eclipse/che-che4z-lsp-for-hlasm/wiki)
+
 ## [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) 
 
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Zowe.vscode-extension-for-zowe?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)
