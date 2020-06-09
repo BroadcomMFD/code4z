@@ -15,12 +15,14 @@ Powered by open source projects [Zowe](https://www.zowe.org/) and [Che](https://
 
 ## What’s New
 
-* 2019-12-16 - [HLASM Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support)  and [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) are now a part of the Code4z package.
+* 2020-04-29 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) (v1.5) now supports editing and deletion of profiles and management of VSAM data sets.
+* 2020-04-20 - [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) (v1.1) now supports conditional breakpoints, logpoints and hitcounts.
+* 2020-04-09 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (v0.11) now supports automatic downloading of copybooks and downloading of nested copybooks.
 
 ## Prerequisites
 
 * Java installed on your machine.
-* Individual extension prerequisites are detailed in the sections below.
+* Individual extension prerequisites are detailed in the individual readme files linked below.
 
 ## [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support)
 
@@ -36,6 +38,7 @@ The Code4z package includes a bitlang [COBOL extension](https://marketplace.visu
 
 ### Features
 * Edit COBOL code with syntax highlighting, real time syntax validation, content assist and other advanced features.
+* Automatic retrieval of copybooks from the mainframe.
 
 ### Blogs
 * [Beginner’s Guide: COBOL Made Easy](https://medium.com/modern-mainframe/beginners-guide-cobol-made-easy-introduction-ecf2f611ac76)
@@ -53,6 +56,9 @@ Code completion, highlighting, browsing and validation for High Level Assembler 
 ### Features
 * Edit HLASM code with syntax highlighting, real time syntax validation, content assist and other advanced features.
 * Trace HLASM macros.
+
+### Links
+* [HLASM Language Support Wiki](https://github.com/eclipse/che-che4z-lsp-for-hlasm/wiki)
 
 ## [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) 
 
