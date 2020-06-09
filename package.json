@@ -36,5 +36,21 @@
 		"prune-branches": "git remote prune origin",
 		"clean": "git clean -fdX",
 		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"devDependencies": {
+		"@types/glob": "^7.1.1",
+		"@types/jszip": "~3.1.6",
+		"@types/mocha": "^5.2.7",
+		"@types/node": "^12.12.17",
+		"@types/vscode": "^1.37.0",
+		"glob": "^7.1.4",
+		"mocha": "^6.1.4",
+		"ts-loader": "~6.2.0",
+		"tslint": "^5.20.0",
+		"tslint-webpack-plugin": "~2.1.0",
+		"typescript": "^3.6.3",
+		"vsce": "~1.71.0",
+		"webpack": "~4.41.2",
+		"webpack-cli": "~3.3.9"
 	}
 }
