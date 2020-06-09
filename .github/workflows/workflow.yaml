@@ -1,5 +1,5 @@
   
-name: CODE4Z
+name: vsixviewer
 
 on:
   push:
@@ -40,6 +40,9 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '12.x'
+        
+      - name: clean install dependencies
+        run: npm ci
 
       - name: update metadata in package.json
         uses: onlyutkarsh/patch-files-action@v1.0.1
