@@ -36,5 +36,5 @@
 		"prune-branches": "git remote prune origin",
 		"clean": "git clean -fdX",
 		"postinstall": "node ./node_modules/vscode/bin/install"
-	},
+	}
 }
