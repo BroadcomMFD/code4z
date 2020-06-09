@@ -26,4 +26,8 @@
 		"broadcomMFD.debugger-for-mainframe",
 		"bitlang.cobol"
 	]
+	
+	"scripts": {
+		"package": "vsce package",
+	},
 }
