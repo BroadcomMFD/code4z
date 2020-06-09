@@ -27,6 +27,14 @@
 		"bitlang.cobol"
 	],
 	"scripts": {
+		"vscode:prepublish": "npm run compile && webpack --mode production",
+		"webpack": "npm run compile && webpack --mode development",
+		"webpack-dev": "npm run compile && webpack --mode development --watch --info-verbosity verbose",
+		"compile": "tsc -p ./",
 		"package": "vsce package",
+		"deploy": "vsce publish -p",
+		"prune-branches": "git remote prune origin",
+		"clean": "git clean -fdX",
+		"postinstall": "node ./node_modules/vscode/bin/install"
 	},
 }
