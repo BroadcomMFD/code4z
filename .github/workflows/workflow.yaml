@@ -1,3 +1,6 @@
+  
+name: CODE4Z
+
 on:
   push:
     branches: 
@@ -5,6 +8,7 @@ on:
       - master
     paths-ignore: # dont run when changes made to these folders 
       - '.vscode/**'
+
 jobs:
   cicd:
     name: cicd
@@ -32,7 +36,6 @@ jobs:
           echo "Patch: ${{ steps.gitversion.outputs.patch }}"
           echo "MajorMinorPatch: ${{ steps.gitversion.outputs.majorMinorPatch }}"
           echo "SemVer: ${{ steps.gitversion.outputs.semVer }}"
-
       - name: setup node
         uses: actions/setup-node@v1
         with:
@@ -63,9 +66,21 @@ jobs:
       - name: print vsix path
         run: |
           echo "VSIX Path: ${{ env.vsix_path }}"
-
       - name: upload vsix as artifact
         uses: actions/upload-artifact@v1
         with:
           name: vsix-viewer-${{steps.gitversion.outputs.semVer}}.vsix
           path: ${{github.workspace}}/vsix-viewer-${{steps.gitversion.outputs.semVer}}.vsix
+      
+      - name: publish to marketplace
+        if: github.ref == 'refs/heads/master'
+        run: npm run deploy ${{ env.PAT }}
+
+      - name: create a release
+        if: github.ref == 'refs/heads/master'
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        with:
+          tag_name: v${{ steps.gitversion.outputs.semVer }}
+          release_name: v${{ steps.gitversion.outputs.semVer }}
