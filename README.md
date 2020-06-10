@@ -15,7 +15,7 @@ Powered by open source projects [Zowe](https://www.zowe.org/) and [Che](https://
 
 ## What’s New
 
-* 2020-04-29 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) (v1.5) now supports editing and deletion of profiles and management of VSAM data sets.
+* 2020-06-03 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) (v1.6) now supports recall options for migrated data sets and streamlined profile creation.
 * 2020-04-20 - [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) (v1.1) now supports conditional breakpoints, logpoints and hitcounts.
 * 2020-04-09 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (v0.11) now supports automatic downloading of copybooks and downloading of nested copybooks.
 
