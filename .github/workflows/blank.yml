@@ -1,8 +1,8 @@
-name: Move new issues into Triage
+name: Move assigned pull requests into To do
 
 on:
-  issues:
-    types: [opened]
+  pull_request:
+    types: [assigned]
 
 jobs:
   automate-project-columns:
@@ -11,5 +11,5 @@ jobs:
       - uses: alex-page/github-project-automation-plus@v0.2.4
         with:
           project: Backlog
-          column: Triage
+          column: To do
           repo-token: ${{ secrets.GITHUB_TOKEN }}
