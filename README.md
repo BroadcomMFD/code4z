@@ -116,7 +116,7 @@ Debugger for Mainframe provides the debugging interface to [CA InterTest™ for 
 ### COBOL Language Support using CA Endevor Bridge for Git and Explorer for Endevor
 * Use VS Code’s built-in Git interface to clone source code from CA Endevor using Endevor’s Bridge for Git.
 * Edit COBOL code using COBOL Language Support, taking advantage of all the coding assistance provided by the extension.
-* Download all copybooks used in the COBOL source code from the mainframe to your local machine using COBOL Language Support.
+* Locate all copybooks in the Git folder structure, and if needed, download other copybooks used in the source code from the mainframe.
 * Use VS Code’s built-in Git interface to push, pull and merge changes.
 * Search and browse additional code elements in the entire map of Endevor using the Explorer for Endevor extension. The COBOL Language Support extension provides syntax awareness for COBOL elements.
 * Download code elements, including their dependencies, into the current workspace using the Explorer for Endevor extension, and synchronize them with the Git project if code modifications are needed.
