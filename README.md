@@ -14,8 +14,10 @@ Powered by open source projects [Zowe](https://www.zowe.org/) and [Che](https://
 
 
 ## What’s New
+* 2020-07-07 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (0.12) now supports locally stored copybooks.
+* 2020-07-02 - [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (0.10) lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
+* 2020-07-01 - [ZOWE Explorer](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (1.7) lorep ipsum lorem ipsum lorem ipsum lorem ipsum.
 
-* 2020-07-XX - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (v0.12) now supports locally stored copybooks.
 
 ## Prerequisites
 
@@ -40,6 +42,8 @@ The Code4z package includes a bitlang [COBOL extension](https://marketplace.visu
 
 ### Blogs
 * [Beginner’s Guide: COBOL Made Easy](https://medium.com/modern-mainframe/beginners-guide-cobol-made-easy-introduction-ecf2f611ac76)
+* [LSP Magic - Mainframe Language Support in Modern IDEs](https://medium.com/modern-mainframe/lsp-magic-mainframe-language-support-in-modern-ides-4ea3d81259b3)
+
 
 ## [HLASM Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) 
 
@@ -108,6 +112,10 @@ Debugger for Mainframe provides the debugging interface to [CA InterTest™ for 
 ### Features
 
 * Debug COBOL code for applications running in a CICS region.
+
+### Videos
+
+* [Getting started / Debugger for Mainframe 101](https://www.youtube.com/watch?v=f6ZxwALSb_Y&feature=youtu.be)
 
 ## Sample Workflows
 
