@@ -16,8 +16,16 @@ Powered by open source projects [Zowe](https://www.zowe.org/) and [Che](https://
 ## What’s New
 * 2020-07-07 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (0.12) now supports locally stored copybooks.
 * 2020-07-02 - [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor) (0.10) lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
-* 2020-07-01 - [ZOWE Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) (1.7) lorep ipsum lorem ipsum lorem ipsum lorem ipsum.
 
+* 2020-07-01 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) (1.7) includes the following updates:
+
+  * Credentials check feature that allows users to update their credentials if they receive an authorization error.
+  * Profile validation feature that checks whether a profile is valid. 
+  * Editing of search filters.
+  * Editing of ASCII files in USS.
+  * And more
+
+  For the comprehensive list of updates, see [Changelog](https://marketplace.visualstudio.com/items/Zowe.vscode-extension-for-zowe/changelog).
 
 ## Prerequisites
 
