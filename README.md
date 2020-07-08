@@ -7,7 +7,7 @@ Mainframe application developers can use the Code4z package for a modern, famili
 Developers can now find the code they need to work on in Explorer for Endevor and Zowe Explorer, edit code assisted by COBOL or HLASM Language Support, and test the resulting code with the Debugger, all in one Mainframe development package.
 
 <p align="center">
-  <img src="https://github.com/BroadcomMFD/code4z/blob/master/extensions2.png" alt="Code4z Extensions"/>
+  <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/831f0c9ad043ea1713a3f6670de9c36df04afeb2/extensions2.png" alt="Code4z Extensions"/>
 </p>
 
 Powered by open source projects [Zowe](https://www.zowe.org/) and [Che](https://www.eclipse.org/che/). Many of these extensions, and other mainframe-oriented innovations, are also available as part of open source [Eclipse Che4z subproject](https://github.com/eclipse/che-che4z).
