@@ -15,6 +15,7 @@ Powered by open source projects [Zowe](https://www.zowe.org/) and [Che](https://
 
 ## What’s New
 * 2020-07-07 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (0.12) now supports locally stored copybooks.
+
 * 2020-07-02 - [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor) (0.10) includes the following updates:
 
   * New Profile Experience:
