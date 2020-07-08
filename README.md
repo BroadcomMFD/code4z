@@ -7,17 +7,31 @@ Mainframe application developers can use the Code4z package for a modern, famili
 Developers can now find the code they need to work on in Explorer for Endevor and Zowe Explorer, edit code assisted by COBOL or HLASM Language Support, and test the resulting code with the Debugger, all in one Mainframe development package.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/831f0c9ad043ea1713a3f6670de9c36df04afeb2/extensions2.png" alt="Code4z Extensions"/>
+  <img src="https://github.com/BroadcomMFD/code4z/blob/master/extensions2.png" alt="Code4z Extensions"/>
 </p>
 
 Powered by open source projects [Zowe](https://www.zowe.org/) and [Che](https://www.eclipse.org/che/). Many of these extensions, and other mainframe-oriented innovations, are also available as part of open source [Eclipse Che4z subproject](https://github.com/eclipse/che-che4z).
 
 
 ## What’s New
+* 2020-07-07 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (0.12) now supports locally stored copybooks.
 
-* 2020-06-03 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) (v1.6) now supports recall options for migrated data sets and streamlined profile creation.
-* 2020-04-20 - [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) (v1.1) now supports conditional breakpoints, logpoints and hitcounts.
-* 2020-04-09 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (v0.11) now supports automatic downloading of copybooks and downloading of nested copybooks.
+* 2020-07-02 - [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor) (0.10) includes the following updates:
+
+  * New Profile Experience:
+    * Create Endevor plug-in for Zowe CLI profiles directly in Explorer for Endevor.
+    * Use any Endevor profiles that you have created in the CLI in Explorer for Endevor.
+  * Deprecation of support for CA Endevor Bridge for Git mappings.
+
+* 2020-07-01 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) (1.7) includes the following updates:
+
+  * Credentials check feature that allows users to update their credentials if they receive an authorization error.
+  * Profile validation feature that checks whether a profile is valid. 
+  * Editing of search filters.
+  * Editing of ASCII files in USS.
+  * And more
+
+  For the comprehensive list of updates, see [Changelog](https://marketplace.visualstudio.com/items/Zowe.vscode-extension-for-zowe/changelog).
 
 ## Prerequisites
 
@@ -42,6 +56,8 @@ The Code4z package includes a bitlang [COBOL extension](https://marketplace.visu
 
 ### Blogs
 * [Beginner’s Guide: COBOL Made Easy](https://medium.com/modern-mainframe/beginners-guide-cobol-made-easy-introduction-ecf2f611ac76)
+* [LSP Magic - Mainframe Language Support in Modern IDEs](https://medium.com/modern-mainframe/lsp-magic-mainframe-language-support-in-modern-ides-4ea3d81259b3)
+
 
 ## [HLASM Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) 
 
@@ -111,11 +127,16 @@ Debugger for Mainframe provides the debugging interface to [CA InterTest™ for 
 
 * Debug COBOL code for applications running in a CICS region.
 
+### Videos
+
+* [Getting started / Debugger for Mainframe 101](https://www.youtube.com/watch?v=f6ZxwALSb_Y&feature=youtu.be)
+
 ## Sample Workflows
 
 ### COBOL Language Support using CA Endevor Bridge for Git and Explorer for Endevor
 * Use VS Code’s built-in Git interface to clone source code from CA Endevor using Endevor’s Bridge for Git.
 * Edit COBOL code using COBOL Language Support, taking advantage of all the coding assistance provided by the extension.
+* Locate all copybooks in the Git folder structure, and if needed, download other copybooks used in the source code from the mainframe.
 * Use VS Code’s built-in Git interface to push, pull and merge changes.
 * Search and browse additional code elements in the entire map of Endevor using the Explorer for Endevor extension. The COBOL Language Support extension provides syntax awareness for COBOL elements.
 * Download code elements, including their dependencies, into the current workspace using the Explorer for Endevor extension, and synchronize them with the Git project if code modifications are needed.
