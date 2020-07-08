@@ -20,7 +20,7 @@ Powered by open source projects [Zowe](https://www.zowe.org/) and [Che](https://
   * New Profile Experience:
     * Create Endevor plug-in for Zowe CLI profiles directly in Explorer for Endevor.
     * Use any Endevor profiles that you have created in the CLI in Explorer for Endevor.
-  * HTTPS Web Service Configuration support
+  * Deprecation of support for CA Endevor Bridge for Git mappings.
 
 * 2020-07-01 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) (1.7) includes the following updates:
 
