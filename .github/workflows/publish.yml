@@ -1,0 +1,49 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+    
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Pre-requisities
+      run: sudo npm install -g vsce
+    - run: npm install
+
+    - name: Update version and changelog
+      run: npx semantic-release --dry-run
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Package VSIX
+      run: vsce package
+    - uses: actions/upload-artifact@v2
+      with:
+        name: VSIX
+        path: "*.vsix"
+    - name: Commit new version and changelog
+      run: |
+        git config --global user.email "actions@github.com"
+        git config --global user.name "github-actions"
+        git add package.json CHANGELOG.md
+        git commit -m "chore: Update version & changelog. [skip ci]"
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Rename VSIX
+      run: mv *.vsix code4z.vsix
+    - name: Run semantic-release
+      run: npx semantic-release
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Publish
+      run: vsce publish
+      env:
+        VSCE_PAT: $
