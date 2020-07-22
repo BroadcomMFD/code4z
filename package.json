@@ -13,11 +13,31 @@
 		"vscode": "^1.10.0"
 	},
 	"keywords": [
-		"z/OS", "zos", "lsp", "assembler", "hlasm", "zowe", "cobol", "dataset", "mainframe", "explorer", "endevor", "jcl", "uss", "debugger", "ca-intertest", "cics"
+		"z/OS",
+		"zos",
+		"lsp",
+		"assembler",
+		"hlasm",
+		"zowe",
+		"cobol",
+		"dataset",
+		"mainframe",
+		"explorer",
+		"endevor",
+		"jcl",
+		"uss",
+		"debugger",
+		"ca-intertest",
+		"cics"
 	],
 	"categories": [
 		"Extension Packs"
 	],
+	"devDependencies": {
+		"@semantic-release/changelog": "^5.0.0",
+		"@semantic-release/exec": "^5.0.0",
+		"semantic-release": "^17.0.7"
+	},
 	"extensionPack": [
 		"broadcomMFD.cobol-language-support",
 		"Zowe.vscode-extension-for-zowe",
