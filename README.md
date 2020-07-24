@@ -1,17 +1,24 @@
 # Code4z
 
-Code4z is an all-in-one mainframe extension package for developers working with z/OS applications, suitable for all levels of mainframe experience, even beginners.
-
-Mainframe application developers can use the Code4z package for a modern, familiar, and seamless experience, which helps to overcome some developers' reservations or concerns about the traditional mainframe user experience.
-
-Developers can now find the code they need to work on in Explorer for Endevor and Zowe Explorer, edit code assisted by COBOL or HLASM Language Support, and test the resulting code with the Debugger, all in one Mainframe development package.
+Code4z is an all-in-one VS Code extension pack for mainframe users working with z/OS.  Code4z provides language support for IBM COBOL 6.0 and High Level Assembler for z/OS. It includes Zowe Explorer, Explorer for Endevor and extensions for interactive debugging of COBOL CICS applications. Code4z is free to install and use.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/master/extensions2.png" alt="Code4z Extensions"/>
 </p>
 
-Powered by open source projects [Zowe](https://www.zowe.org/) and [Che](https://www.eclipse.org/che/). Many of these extensions, and other mainframe-oriented innovations, are also available as part of open source [Eclipse Che4z subproject](https://github.com/eclipse/che-che4z).
+## How Does It Work?
 
+Code4z extensions utilize language servers that are fully compatible with the [Language Server Protocol Specification](https://microsoft.github.io/language-server-protocol/specification). Additional editor extensions simplify your common workflows and enable you to work with COBOL and HLASM code in the same way you work with other languages in Visual Studio Code.
+
+With the Code4z extension pack you can:
+- Utilize syntax highlighting, real time syntax validation and content assist when editing COBOL and HLASM code.
+- Automatically retrieve copybooks from the mainframe.
+- Trace HLASM macros.
+- Retrieve, browse and search CA Endevor® elements.
+- Access z/OS Datasets and z/OS Unix file systems, and submit JCLs.
+- Debug COBOL code for applications running in a CICS region.
+- View and download job output.
+- Issue TSO commands.
 
 ## What’s New
 * 2020-07-07 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (0.12) now supports locally stored copybooks.
