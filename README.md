@@ -53,8 +53,6 @@ With the Code4z extension pack you can:
 
 COBOL Language Support provides autocomplete, highlighting and diagnostic features for COBOL code and copybooks.
 
-The Code4z package includes a bitlang [COBOL extension](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol) which provides an enhanced experience while working with COBOL Language Support and enables syntax coloring.
-
 > How can we improve COBOL Language Support? [Let us know on our Git repository](https://github.com/eclipse/che-che4z-lsp-for-cobol/issues)
 
 ### Features

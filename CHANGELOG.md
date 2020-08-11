@@ -1,3 +1,8 @@
+## [1.1.4] 2020-08-11
+
+- Removing Bitlang extension
+- Readme update
+
 ## [1.1.3] 2020-07-08
 
 - Readme update
