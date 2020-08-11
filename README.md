@@ -36,7 +36,6 @@ With the Code4z extension pack you can:
   * Profile validation feature that checks whether a profile is valid. 
   * Editing of search filters.
   * Editing of ASCII files in USS.
-  * And more
 
   For the comprehensive list of updates, see [Changelog](https://marketplace.visualstudio.com/items/Zowe.vscode-extension-for-zowe/changelog).
 
