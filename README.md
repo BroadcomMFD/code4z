@@ -21,6 +21,8 @@ With the Code4z extension pack you can:
 - Issue TSO commands.
 
 ## What’s New
+* 2020-08-03 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) (1.8) now allows extenders to load saved profile sessions upon their activation. For a comprehensive list of updates, see the [Changelog](https://marketplace.visualstudio.com/items/Zowe.vscode-extension-for-zowe/changelog).
+
 * 2020-07-07 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (0.12) now supports locally stored copybooks.
 
 * 2020-07-02 - [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor) (0.10) includes the following updates:
@@ -29,15 +31,6 @@ With the Code4z extension pack you can:
     * Create Endevor plug-in for Zowe CLI profiles directly in Explorer for Endevor.
     * Use any Endevor profiles that you have created in the CLI in Explorer for Endevor.
   * Deprecation of support for CA Endevor Bridge for Git mappings.
-
-* 2020-07-01 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) (1.7) includes the following updates:
-
-  * Credentials check feature that allows users to update their credentials if they receive an authorization error.
-  * Profile validation feature that checks whether a profile is valid. 
-  * Editing of search filters.
-  * Editing of ASCII files in USS.
-
-  For the comprehensive list of updates, see [Changelog](https://marketplace.visualstudio.com/items/Zowe.vscode-extension-for-zowe/changelog).
 
 ## Prerequisites
 
