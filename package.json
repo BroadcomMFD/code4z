@@ -1,7 +1,7 @@
 {
 	"name": "code4z-extension-pack",
 	"displayName": "Code4z",
-	"description": "Mainframe pack for developers working with the z/OS applications",
+	"description": "Extension pack for Mainframe users working with z/OS applications and tools",
 	"version": "1.1.4",
 	"publisher": "broadcomMFD",
 	"icon": "icon.png",
