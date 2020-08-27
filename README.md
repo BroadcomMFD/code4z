@@ -21,16 +21,9 @@ With the Code4z extension pack you can:
 - Issue TSO commands.
 
 ## What’s New
+* 2020-08-20 - [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) (1.2) now supports Batch programs as well as CICS programs.
+* 2020-08-18 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (0.13) now includes syntax coloring, and supports A&B margins and REPLACING within COPY statements. COBOL Language Support is no longer compatible with other COBOL extensions for VS Code, including Bitlang extensions. We recommend that you now disable other COBOL extensions.
 * 2020-08-03 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) (1.8) now allows extenders to load saved profile sessions upon their activation. For a comprehensive list of updates, see the [Changelog](https://marketplace.visualstudio.com/items/Zowe.vscode-extension-for-zowe/changelog).
-
-* 2020-07-07 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (0.12) now supports locally stored copybooks.
-
-* 2020-07-02 - [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor) (0.10) includes the following updates:
-
-  * New Profile Experience:
-    * Create Endevor plug-in for Zowe CLI profiles directly in Explorer for Endevor.
-    * Use any Endevor profiles that you have created in the CLI in Explorer for Endevor.
-  * Deprecation of support for CA Endevor Bridge for Git mappings.
 
 ## Prerequisites
 
