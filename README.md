@@ -21,8 +21,10 @@ With the Code4z extension pack you can:
 - Issue TSO commands.
 
 ## What’s New
-* 2020-09-16 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) (1.9) now supports the Allocate Like function and allows enabling and disabling of profile validation. For a comprehensive list of updates, see the [Changelog](https://marketplace.visualstudio.com/items/Zowe.vscode-extension-for-zowe/changelog).
-* 2020-09-30 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (0.15) now supports syntax analysis for CICS statements.
+* 2020-12-18 - [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) (1.4) now supports multiple-user sessions and paragraph breakpoints.
+* 2020-12-17 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) (1.11.1) now supports login and logout functions for base profiles.
+* 2020-12-16 - [HLASM Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) (0.12.0) adds diagnostic suppression for files that have no processor group configuration.
+* 2020-12-04 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (0.16.1) now supports subroutines used in the program and includes code snippets for EXEC CICS and EXEC SQL statements.
 
 ## Prerequisites
 
