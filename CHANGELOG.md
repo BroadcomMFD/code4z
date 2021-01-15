@@ -1,4 +1,5 @@
-
+##[1.1.7] 2021-01-15
+- License update
 ## [1.1.6] 2020-12-22
 
 - Readme update
