@@ -23,10 +23,9 @@ With the Code4z extension pack you can:
 - Issue TSO commands.
 
 ## What’s New
-* 2020-12-18 - [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) (1.4) now supports multiple-user sessions and paragraph breakpoints.
-* 2020-12-17 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) (1.11.1) now supports login and logout functions for base profiles.
-* 2020-12-16 - [HLASM Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) (0.12.0) adds diagnostic suppression for files that have no processor group configuration.
-* 2020-12-04 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (0.16.1) now supports subroutines used in the program and includes code snippets for EXEC CICS and EXEC SQL statements.
+* 2021-04-08 - [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) (1.5) now supports call and statement trace.
+* 2021-03-26 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) (1.13.1), see [Changelog](https://marketplace.visualstudio.com/items/Zowe.vscode-extension-for-zowe/changelog) for a list of fixes and additions.
+* 2021-03-15 - [COBOL Langage Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) (0.18.0) now supports copybooks outside the current workspace.
 
 ## Prerequisites
 
