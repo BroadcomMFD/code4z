@@ -20,7 +20,7 @@ With the Code4z extension pack you can:
 - Access z/OS Datasets and z/OS Unix file systems, and submit JCLs.
 - Debug COBOL code for applications running in a CICS region.
 - View and download job output.
-- Issue TSO commands.
+- Issue TSO and MVS commands.
 
 ## What’s New
 * 2021-05-25 - [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor) version 0.12.1, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.explorer-for-endevor/changelog).
@@ -69,7 +69,7 @@ Code completion, highlighting, browsing and validation for High Level Assembler 
 ### Links
 * [HLASM Language Support Wiki](https://github.com/eclipse/che-che4z-lsp-for-hlasm/wiki)
 
-## [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) 
+## [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)
 
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Zowe.vscode-extension-for-zowe?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)
 [![GitHub issues](https://img.shields.io/github/issues-raw/zowe/vscode-extension-for-zowe?style=flat-square)](https://github.com/zowe/vscode-extension-for-zowe/issues)
@@ -82,30 +82,42 @@ You can learn more about the Zowe Explorer by watching the [Getting Started](htt
 > How can we improve Zowe Explorer? [Let us know on our Git repository](https://github.com/zowe/vscode-extension-for-zowe/issues)
 
 ### Features
-* Access z/OS Datasets and z/OS Unix file systems, and submit JCLs.
-* Create, edit, and work with z/OSMF compatible profiles.
-* Store your credentials securely with Secure Credentials Store plug-in.
-* View and download job output.
-* Issue TSO commands.
-* Install additional extensions.
+
+- Access z/OS Datasets and z/OS Unix file systems, and submit JCLs.
+- Create, edit, and work with z/OSMF compatible profiles.
+- Store your credentials securely with Secure Credentials Store plug-in.
+- View and download job output.
+- Issue TSO and MVS commands.
+- Leverage the API Mediation Layer token-based authentication to access z/OSMF.
+- Install additional extensions.
 
 ### Blogs
-* [Beginner’s Guide: How to access mainframe via Zowe in 10 easy steps](https://medium.com/zowe/beginners-guide-how-to-access-mainframe-via-zowe-in-10-easy-steps-fbec14ed6ed2)
-* [Zowe blog](https://medium.com/zowe)
+
+- [Beginner’s Guide: How to access mainframe via Zowe in 10 easy steps](https://medium.com/zowe/beginners-guide-how-to-access-mainframe-via-zowe-in-10-easy-steps-fbec14ed6ed2)
+- [Zowe blog](https://medium.com/zowe)
 
 ## [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor)
+
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/broadcomMFD.explorer-for-endevor?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor)
 [![GitHub issues](https://img.shields.io/github/issues-raw/eclipse/che-che4z-explorer-for-endevor?style=flat-square)](https://github.com/eclipse/che-che4z-explorer-for-endevor/issues)
 [![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://communityinviter.com/apps/che4z/code4z)
 
-Explorer for Endevor gives you the ability to Browse and Retrieve [CA Endevor® SCM](https://www.broadcom.com/products/mainframe/devops-app-development/app/endevor-software-change-manager) elements using a user-friendly, intuitive interface.
+The Explorer for Endevor VS Code extension modernizes the way you interact with [CA Endevor]((https://www.broadcom.com/products/mainframe/devops-app-development/app/endevor-software-change-manager)), offering a user-friendly and convenient way to work with elements and inventory locations.
 
 This extension offers best developer experience in synergy with [Bridge for Git](https://youtu.be/sjnZuQpUVM4), a solution which enables you to concurrently work in Git and mainframe.
 
 > How can we improve Explorer for Endevor? [Let us know on our Git repository](https://github.com/eclipse/che-che4z-explorer-for-endevor/issues)
 
 ### Features
-* Retrieve, browse and search CA Endevor® elements.
+
+- View an element
+- Retrieve an element with dependencies
+- View element details
+- Create Endevor profiles, including Endevor inventory location profiles
+- Use Zowe CLI base profiles
+- Perform an Edit action
+- Perform a Generate action
+- Print a listing
 
 ## [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe)
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/broadcomMFD.debugger-for-mainframe?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe)
