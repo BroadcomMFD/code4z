@@ -110,14 +110,10 @@ This extension offers best developer experience in synergy with [Bridge for Git]
 
 ### Features
 
-- View an element
-- Retrieve an element with dependencies
+- View, retrieve, edit, and generate elements
 - View element details
-- Create Endevor profiles, including Endevor inventory location profiles
-- Use Zowe CLI base profiles
-- Perform an Edit action
-- Perform a Generate action
-- Print a listing
+- Work with Endevor profiles and Zowe CLI base profiles
+- Print listings
 
 ## [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe)
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/broadcomMFD.debugger-for-mainframe?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe)
