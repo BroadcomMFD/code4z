@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-BROADCOM-brightgreen)](https://github.com/BroadcomMFD/code4z/blob/master/LICENSE)
 
-Code4z is an all-in-one VS Code extension pack for mainframe users working with z/OS.  Code4z provides language support for IBM COBOL 6.0 and High Level Assembler for z/OS. It includes Zowe Explorer, Explorer for Endevor and extensions for interactive debugging of COBOL CICS applications. Code4z is free to install and use.
+Code4z is an all-in-one VS Code extension pack for mainframe users working with z/OS. Code4z provides language support for IBM COBOL 6.0 and High Level Assembler for z/OS. It includes Zowe Explorer, Explorer for Endevor and extensions for interactive debugging of COBOL CICS applications. Code4z is free to install and use.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/master/extensions2.png" alt="Code4z Extensions"/>
@@ -14,6 +14,7 @@ Code4z extensions utilize language servers that are fully compatible with the [L
 
 With the Code4z extension pack you can:
 - Utilize syntax highlighting, real time syntax validation and content assist when editing COBOL and HLASM code.
+- Utilize graphical visualization of program flow for COBOL programs.
 - Automatically retrieve copybooks from the mainframe.
 - Trace HLASM macros.
 - Retrieve, browse and search CA Endevor® elements.
@@ -133,6 +134,23 @@ Debugger for Mainframe provides the debugging interface to [CA InterTest™ for 
 ### Videos
 
 * [Getting started / Debugger for Mainframe 101](https://www.youtube.com/watch?v=f6ZxwALSb_Y&feature=youtu.be)
+
+## [COBOL Control Flow](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/broadcomMFD.ccf?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf)
+[![GitHub issues](https://img.shields.io/github/issues-raw/broadcomMFD/cobol-control-flow?style=flat-square)](https://github.com/BroadcomMFD/cobol-control-flow/issues)
+[![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://communityinviter.com/apps/che4z/code4z)
+
+COBOL Control Flow provides graphical visualization of program flow for programs written in COBOL. The extension is designed to help COBOL developers to quickly comprehend and debug COBOL programs with which they might not be familiar.
+
+> How can we improve COBOL Control Flow? [Let us know on our Git repository](https://github.com/BroadcomMFD/cobol-control-flow/issues)
+
+#### Features
+
+* Generate interactive graphs of COBOL code
+* Navigate through COBOL code and copybooks using the interactive graph. 
+
+#### Blogs
+* [Visualize COBOL Programs in VS Code](https://medium.com/modern-mainframe/visualization-of-cobol-programs-in-vs-code-4e67210b8b9f)
 
 ## Sample Workflows
 
