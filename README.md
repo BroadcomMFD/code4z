@@ -126,7 +126,7 @@ Debugger for Mainframe provides the debugging interface to [CA InterTest™ for 
 
 > How can we improve Debugger for Mainframe? [Let us know on our Git repository](https://github.com/BroadcomMFD/debugger-for-mainframe/issues)
 
-#### Features
+### Features
 
 * Debug COBOL code for applications running in a CICS region.
 * Debug COBOL code for Batch applications.
@@ -144,12 +144,12 @@ COBOL Control Flow provides graphical visualization of program flow for programs
 
 > How can we improve COBOL Control Flow? [Let us know on our Git repository](https://github.com/BroadcomMFD/cobol-control-flow/issues)
 
-#### Features
+### Features
 
 * Generate interactive graphs of COBOL code
 * Navigate through COBOL code and copybooks using the interactive graph. 
 
-#### Blogs
+### Blogs
 * [Visualize COBOL Programs in VS Code](https://medium.com/modern-mainframe/visualization-of-cobol-programs-in-vs-code-4e67210b8b9f)
 
 ## Sample Workflows
