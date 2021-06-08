@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-BROADCOM-brightgreen)](https://github.com/BroadcomMFD/code4z/blob/master/LICENSE)
 
-Code4z is an all-in-one VS Code extension pack for mainframe users working with z/OS.  Code4z provides language support for IBM COBOL 6.0 and High Level Assembler for z/OS. It includes Zowe Explorer, Explorer for Endevor and extensions for interactive debugging of COBOL CICS applications. Code4z is free to install and use.
+Code4z is an all-in-one VS Code extension pack for mainframe users working with z/OS. Code4z provides language support for IBM COBOL 6.0 and High Level Assembler for z/OS. It includes Zowe Explorer, Explorer for Endevor and extensions for interactive debugging and graphical visualization of COBOL applications. Code4z is free to install and use.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/master/extensions2.png" alt="Code4z Extensions"/>
@@ -14,18 +14,22 @@ Code4z extensions utilize language servers that are fully compatible with the [L
 
 With the Code4z extension pack you can:
 - Utilize syntax highlighting, real time syntax validation and content assist when editing COBOL and HLASM code.
+- Utilize graphical visualization of program flow for COBOL programs.
 - Automatically retrieve copybooks from the mainframe.
 - Trace HLASM macros.
 - Retrieve, browse and search CA Endevor® elements.
 - Access z/OS Datasets and z/OS Unix file systems, and submit JCLs.
 - Debug COBOL code for applications running in a CICS region.
 - View and download job output.
-- Issue TSO commands.
+- Issue TSO and MVS commands.
 
 ## What’s New
+* 2021-06-08 - New extension [COBOL Control Flow](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf) added to the Code4z package.
+* 2021-06-08 - [COBOL Langage Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) version 0.19.0, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.cobol-language-support/changelog).
+* 2021-06-01 - [HLASM Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) version 0.13.0, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.hlasm-language-support/changelog)
+* 2021-05-25 - [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor) version 0.12.1, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.explorer-for-endevor/changelog).
+* 2021-05-24 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) version 1.15.1, see [Changelog](https://marketplace.visualstudio.com/items/Zowe.vscode-extension-for-zowe/changelog).
 * 2021-04-08 - [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) version 1.5, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.debugger-for-mainframe/changelog).
-* 2021-03-26 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) version 1.13.1, see [Changelog](https://marketplace.visualstudio.com/items/Zowe.vscode-extension-for-zowe/changelog).
-* 2021-03-15 - [COBOL Langage Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) version 0.18.0, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.cobol-language-support/changelog).
 
 ## Prerequisites
 
@@ -68,7 +72,7 @@ Code completion, highlighting, browsing and validation for High Level Assembler 
 ### Links
 * [HLASM Language Support Wiki](https://github.com/eclipse/che-che4z-lsp-for-hlasm/wiki)
 
-## [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) 
+## [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)
 
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Zowe.vscode-extension-for-zowe?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)
 [![GitHub issues](https://img.shields.io/github/issues-raw/zowe/vscode-extension-for-zowe?style=flat-square)](https://github.com/zowe/vscode-extension-for-zowe/issues)
@@ -81,30 +85,38 @@ You can learn more about the Zowe Explorer by watching the [Getting Started](htt
 > How can we improve Zowe Explorer? [Let us know on our Git repository](https://github.com/zowe/vscode-extension-for-zowe/issues)
 
 ### Features
-* Access z/OS Datasets and z/OS Unix file systems, and submit JCLs.
-* Create, edit, and work with z/OSMF compatible profiles.
-* Store your credentials securely with Secure Credentials Store plug-in.
-* View and download job output.
-* Issue TSO commands.
-* Install additional extensions.
+
+- Access z/OS Datasets and z/OS Unix file systems, and submit JCLs.
+- Create, edit, and work with z/OSMF compatible profiles.
+- Store your credentials securely with Secure Credentials Store plug-in.
+- View and download job output.
+- Issue TSO and MVS commands.
+- Leverage the API Mediation Layer token-based authentication to access z/OSMF.
+- Install additional extensions.
 
 ### Blogs
-* [Beginner’s Guide: How to access mainframe via Zowe in 10 easy steps](https://medium.com/zowe/beginners-guide-how-to-access-mainframe-via-zowe-in-10-easy-steps-fbec14ed6ed2)
-* [Zowe blog](https://medium.com/zowe)
+
+- [Beginner’s Guide: How to access mainframe via Zowe in 10 easy steps](https://medium.com/zowe/beginners-guide-how-to-access-mainframe-via-zowe-in-10-easy-steps-fbec14ed6ed2)
+- [Zowe blog](https://medium.com/zowe)
 
 ## [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor)
+
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/broadcomMFD.explorer-for-endevor?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor)
 [![GitHub issues](https://img.shields.io/github/issues-raw/eclipse/che-che4z-explorer-for-endevor?style=flat-square)](https://github.com/eclipse/che-che4z-explorer-for-endevor/issues)
 [![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://communityinviter.com/apps/che4z/code4z)
 
-Explorer for Endevor gives you the ability to Browse and Retrieve [CA Endevor® SCM](https://www.broadcom.com/products/mainframe/devops-app-development/app/endevor-software-change-manager) elements using a user-friendly, intuitive interface.
+The Explorer for Endevor extension modernizes the way you interact with [CA Endevor]((https://www.broadcom.com/products/mainframe/devops-app-development/app/endevor-software-change-manager)), offering a user-friendly and convenient way to work with elements and inventory locations.
 
 This extension offers best developer experience in synergy with [Bridge for Git](https://youtu.be/sjnZuQpUVM4), a solution which enables you to concurrently work in Git and mainframe.
 
 > How can we improve Explorer for Endevor? [Let us know on our Git repository](https://github.com/eclipse/che-che4z-explorer-for-endevor/issues)
 
 ### Features
-* Retrieve, browse and search CA Endevor® elements.
+
+- View, retrieve, edit, and generate elements
+- View element details
+- Work with Endevor profiles and Zowe CLI base profiles
+- Print listings
 
 ## [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe)
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/broadcomMFD.debugger-for-mainframe?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe)
@@ -115,7 +127,7 @@ Debugger for Mainframe provides the debugging interface to [CA InterTest™ for 
 
 > How can we improve Debugger for Mainframe? [Let us know on our Git repository](https://github.com/BroadcomMFD/debugger-for-mainframe/issues)
 
-#### Features
+### Features
 
 * Debug COBOL code for applications running in a CICS region.
 * Debug COBOL code for Batch applications.
@@ -123,6 +135,23 @@ Debugger for Mainframe provides the debugging interface to [CA InterTest™ for 
 ### Videos
 
 * [Getting started / Debugger for Mainframe 101](https://www.youtube.com/watch?v=f6ZxwALSb_Y&feature=youtu.be)
+
+## [COBOL Control Flow](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/broadcomMFD.ccf?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf)
+[![GitHub issues](https://img.shields.io/github/issues-raw/broadcomMFD/cobol-control-flow?style=flat-square)](https://github.com/BroadcomMFD/cobol-control-flow/issues)
+[![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://communityinviter.com/apps/che4z/code4z)
+
+COBOL Control Flow provides graphical visualization of program flow for programs written in COBOL. The extension is designed to help COBOL developers to quickly comprehend and debug COBOL programs with which they might not be familiar.
+
+> How can we improve COBOL Control Flow? [Let us know on our Git repository](https://github.com/BroadcomMFD/cobol-control-flow/issues)
+
+### Features
+
+* Generate interactive graphs of COBOL code
+* Navigate through COBOL code and copybooks using the interactive graph. 
+
+### Blogs
+* [Visualize COBOL Programs in VS Code](https://medium.com/modern-mainframe/visualization-of-cobol-programs-in-vs-code-4e67210b8b9f)
 
 ## Sample Workflows
 
