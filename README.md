@@ -105,7 +105,7 @@ You can learn more about the Zowe Explorer by watching the [Getting Started](htt
 [![GitHub issues](https://img.shields.io/github/issues-raw/eclipse/che-che4z-explorer-for-endevor?style=flat-square)](https://github.com/eclipse/che-che4z-explorer-for-endevor/issues)
 [![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://communityinviter.com/apps/che4z/code4z)
 
-The Explorer for Endevor extension modernizes the way you interact with [CA Endevor]((https://www.broadcom.com/products/mainframe/devops-app-development/app/endevor-software-change-manager)), offering a user-friendly and convenient way to work with elements and inventory locations.
+The Explorer for Endevor extension modernizes the way you interact with [CA Endevor](https://www.broadcom.com/products/mainframe/devops-app-development/app/endevor-software-change-manager), offering a user-friendly and convenient way to work with elements and inventory locations.
 
 This extension offers best developer experience in synergy with [Bridge for Git](https://youtu.be/sjnZuQpUVM4), a solution which enables you to concurrently work in Git and mainframe.
 
