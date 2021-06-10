@@ -44,6 +44,7 @@
 		"Zowe.vscode-extension-for-zowe",
 		"broadcomMFD.explorer-for-endevor",
 		"broadcomMFD.hlasm-language-support",
-		"broadcomMFD.debugger-for-mainframe"
+		"broadcomMFD.debugger-for-mainframe",
+		"broadcomMFD.ccf"
 	]
 }
