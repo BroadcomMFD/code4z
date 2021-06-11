@@ -1,3 +1,7 @@
+## [1.2.1] 2021-06-11
+
+- Readme update
+
 ## [1.2.0] 2021-06-10
 
 - COBOL Control Flow extension added
