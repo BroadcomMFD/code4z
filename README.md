@@ -32,7 +32,6 @@ With the Code4z extension pack you can:
 
 ## Prerequisites
 
-* Java JRE version 11 or higher with the PATH variable correctly configured. For more information, see the [Java documentation](https://www.java.com/en/download/help/path.xml).
 * Individual extension prerequisites are detailed in the individual readme files linked below.
 
 ## [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support)
