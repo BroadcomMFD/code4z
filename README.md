@@ -17,7 +17,7 @@ With the Code4z extension pack you can:
 - Utilize graphical visualization of program flow for COBOL programs.
 - Automatically retrieve copybooks from the mainframe.
 - Trace HLASM macros.
-- Retrieve, browse and search CA Endevor® elements.
+- Retrieve, browse and search Endevor elements.
 - Access z/OS Datasets and z/OS Unix file systems, and submit JCLs.
 - Debug COBOL code for applications running in a CICS region.
 - View and download job output.
@@ -103,7 +103,7 @@ You can learn more about the Zowe Explorer by watching the [Getting Started](htt
 [![GitHub issues](https://img.shields.io/github/issues-raw/eclipse/che-che4z-explorer-for-endevor?style=flat-square)](https://github.com/eclipse/che-che4z-explorer-for-endevor/issues)
 [![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://communityinviter.com/apps/che4z/code4z)
 
-The Explorer for Endevor extension modernizes the way you interact with [CA Endevor](https://www.broadcom.com/products/mainframe/devops-app-development/app/endevor-software-change-manager), offering a user-friendly and convenient way to work with elements and inventory locations.
+The Explorer for Endevor extension modernizes the way you interact with [Endevor](https://www.broadcom.com/products/mainframe/devops-app-development/app/endevor-software-change-manager), offering a user-friendly and convenient way to work with elements and inventory locations.
 
 This extension offers best developer experience in synergy with [Bridge for Git](https://youtu.be/sjnZuQpUVM4), a solution which enables you to concurrently work in Git and mainframe.
 
@@ -121,7 +121,7 @@ This extension offers best developer experience in synergy with [Bridge for Git]
 [![GitHub issues](https://img.shields.io/github/issues-raw/broadcomMFD/debugger-for-mainframe?style=flat-square)](https://github.com/BroadcomMFD/debugger-for-mainframe/issues)
 [![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://communityinviter.com/apps/che4z/code4z)
 
-Debugger for Mainframe provides the debugging interface to [CA InterTest™ for CICS](https://www.broadcom.com/products/mainframe/devops-app-development/testing-quality/intertest-cics) and [CA InterTest™ Batch](https://www.broadcom.com/products/mainframe/testing-and-quality/intertest-batch). This extension provides a modern debug experience for CICS and Batch applications written in COBOL.
+Debugger for Mainframe provides the debugging interface to [InterTest™ for CICS](https://www.broadcom.com/products/mainframe/devops-app-development/testing-quality/intertest-cics) and [InterTest™ Batch](https://www.broadcom.com/products/mainframe/testing-and-quality/intertest-batch). This extension provides a modern debug experience for CICS and Batch applications written in COBOL.
 
 > How can we improve Debugger for Mainframe? [Let us know on our Git repository](https://github.com/BroadcomMFD/debugger-for-mainframe/issues)
 
@@ -154,7 +154,7 @@ COBOL Control Flow provides graphical visualization of program flow for programs
 ## Sample Workflows
 
 ### COBOL Language Support using CA Endevor Bridge for Git and Explorer for Endevor
-* Use VS Code’s built-in Git interface to clone source code from CA Endevor using Endevor’s Bridge for Git.
+* Use VS Code’s built-in Git interface to clone source code from Endevor using Endevor’s Bridge for Git.
 * Edit COBOL code using COBOL Language Support, taking advantage of all the coding assistance provided by the extension.
 * Locate all copybooks in the Git folder structure, and if needed, download other copybooks used in the source code from the mainframe.
 * Use VS Code’s built-in Git interface to push, pull and merge changes.
