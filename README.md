@@ -153,7 +153,7 @@ COBOL Control Flow provides graphical visualization of program flow for programs
 
 ## Sample Workflows
 
-### COBOL Language Support using CA Endevor Bridge for Git and Explorer for Endevor
+### COBOL Language Support using Endevor Bridge for Git and Explorer for Endevor
 * Use VS Code’s built-in Git interface to clone source code from Endevor using Endevor’s Bridge for Git.
 * Edit COBOL code using COBOL Language Support, taking advantage of all the coding assistance provided by the extension.
 * Locate all copybooks in the Git folder structure, and if needed, download other copybooks used in the source code from the mainframe.
