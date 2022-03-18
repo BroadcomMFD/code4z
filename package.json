@@ -3,7 +3,7 @@
 	"license": "SEE LICENSE IN LICENSE",
 	"displayName": "Code4z",
 	"description": "Extension pack for Mainframe users working with z/OS applications and tools",
-	"version": "1.2.3",
+	"version": "1.2.4",
 	"publisher": "broadcomMFD",
 	"icon": "icon.png",
 	"galleryBanner": {
