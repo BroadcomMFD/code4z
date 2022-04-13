@@ -24,7 +24,7 @@ With the Code4z extension pack you can:
 - Issue TSO and MVS commands.
 
 ## What’s New
-* 2022-03-17 - [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor) version 1.0.1, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.explorer-for-endevor/changelog).
+* 2022-04-01 - [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor) version 1.1.0, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.explorer-for-endevor/changelog).
 * 2022-02-15 - [COBOL Control Flow](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf) version 0.4.1, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.ccf/changelog).
 * 2022-02-11 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) version 1.22.0, see [Changelog](https://marketplace.visualstudio.com/items/Zowe.vscode-extension-for-zowe/changelog).
 * 2022-01-31 - [HLASM Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) version 1.0.0, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.hlasm-language-support/changelog)
