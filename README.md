@@ -15,11 +15,13 @@ Code4z extensions utilize language servers that are fully compatible with the [L
 With the Code4z extension pack you can:
 - Utilize syntax highlighting, real time syntax validation and content assist when editing COBOL and HLASM code.
 - Utilize graphical visualization of program flow for COBOL programs.
-- Automatically retrieve copybooks from the mainframe.
+- Automatically retrieve COBOL copybooks from the mainframe.
 - Trace HLASM macros.
 - Retrieve, browse and search Endevor elements.
 - Access z/OS Datasets and z/OS Unix file systems, and submit JCLs.
-- Debug COBOL code for applications running in a CICS region.
+- View and edit VSAM data sets using layouts and selection criteria.
+- Debug COBOL code for CICS and Batch applications.
+- View abend reports and symbolic data for CICS and Batch programs. 
 - View and download job output.
 - Issue TSO and MVS commands.
 
