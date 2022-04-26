@@ -187,22 +187,25 @@ Abend Analyzer for Mainframe provides an interface to [SymDump® CICS](https://w
 
 ## Sample Workflows
 
-### COBOL Language Support using Endevor Bridge for Git and Explorer for Endevor
+### Edit COBOL source code stored on the mainframe
+
 * Use VS Code’s built-in Git interface to clone source code from Endevor using Endevor’s Bridge for Git.
 * Edit COBOL code using COBOL Language Support, taking advantage of all the coding assistance provided by the extension.
+* Use COBOL Control Flow to easily navigate around different parts of the source code.
 * Locate all copybooks in the Git folder structure, and if needed, download other copybooks used in the source code from the mainframe.
 * Use VS Code’s built-in Git interface to push, pull and merge changes.
 * Search and browse additional code elements in the entire map of Endevor using the Explorer for Endevor extension. The COBOL Language Support extension provides syntax awareness for COBOL elements.
 * Download code elements, including their dependencies, into the current workspace using the Explorer for Endevor extension, and synchronize them with the Git project if code modifications are needed.
 
-### Debugger for Mainframe
+### Run a debug session on a CICS program
 
-* Provide InterTest server location, CICS region, credentials and program/transaction name (either by file or input form).
-* Obtain the listing and set breakpoints.
-* Trigger the CICS transaction and start a debug session.
-* Display and change variable values.
-* Stop at designated breakpoints, continue from a designated breakpoint and step through the listing.
-* Close the debug session.
+* Use Abend Analyzer for Mainframe to view an abend report and diagnose the issue.
+* Set up a debug session using Debugger for Mainframe and set breakpoints in the code.
+* Trigger the CICS transaction 
+* Start a debug session using Debugger for Mainframe.
+* Stop at designated breakpoints, displaying and changing any problematic code or variable values.
+* Using Data Editor for Mainframe, correct any errors that arise from data in VSAM files.
+* Run the debug session again.
 
 ### Zowe Explorer and Zowe CLI
 
