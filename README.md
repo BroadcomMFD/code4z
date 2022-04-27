@@ -16,7 +16,7 @@ The Code4z extension pack provides a modern mainframe programming experience and
 
 - **Language support** for IBM Enterprise COBOL 6.0 and high-level assembler language. The COBOL Language Support and HLASM Language Support extensions provide syntax highlighting, syntax validation and content assist when editing COBOL and HLASM code. You can also configure COBOL Language Support to automatically download your copybooks from the mainframe. The COBOL Control Flow application provides graphical visualization of program flow for COBOL programs.
 - **Data editing and file management** of mainframe data sets. With Zowe Explorer you can allocate, copy, rename and edit mainframe data sets in VS Code and save them to the mainframe. The Data Editor for Mainframe extension further allows you to edit VSAM data sets, apply record layouts, and filter records using selection criteria.
-- **Testing tools** for CICS and Batch programs. The Debugger for Mainframe extension lets you debug CICS and Batch applications written in COBOL. With Abend Analyzer for Mainframe you can view abend reports and symbolic data. The HLASM Language Support extensions also lets you trace Assembler macros interactively.
+- **Testing tools** for CICS and Batch programs. The Debugger for Mainframe extension lets you debug CICS and Batch applications written in COBOL. With Abend Analyzer for Mainframe you can view abend reports and symbolic data. The HLASM Language Support extension also lets you trace Assembler macros interactively.
 - **Source code management** integrated with Endevor. Using the Explorer for Endevor extension you can retrieve, browse and search Endevor elements in your IDE.
 - **Mainframe operations** including issuing TSO and MVS commands and submitting JCLs.
 
