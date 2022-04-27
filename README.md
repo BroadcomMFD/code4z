@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-BROADCOM-brightgreen)](https://github.com/BroadcomMFD/code4z/blob/master/LICENSE)
 
-Code4z is an all-in-one VS Code extension pack for mainframe users working with z/OS. Code4z provides language support for IBM COBOL 6.0 and High Level Assembler for z/OS. It includes Zowe Explorer, Explorer for Endevor and extensions for interactive debugging and graphical visualization of COBOL applications. Code4z is free to install and use.
+Code4z is an all-in-one VS Code extension pack for mainframe users working with z/OS. Code4z provides language support for COBOL and High Level Assembler for z/OS and graphical visualization of COBOL applications. It also includes data editing and file management tools, Explorer for Endevor, and extensions for interactive debugging, macro tracing and abend analysis. Code4z is free to install and use.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/master/extensions4.png" alt="Code4z Extensions" />
@@ -12,18 +12,13 @@ Code4z is an all-in-one VS Code extension pack for mainframe users working with 
 
 Code4z extensions utilize language servers that are fully compatible with the [Language Server Protocol Specification](https://microsoft.github.io/language-server-protocol/specification). Additional editor extensions simplify your common workflows and enable you to work with COBOL and HLASM code in the same way you work with other languages in Visual Studio Code.
 
-With the Code4z extension pack you can:
-- Utilize syntax highlighting, real time syntax validation and content assist when editing COBOL and HLASM code.
-- Utilize graphical visualization of program flow for COBOL programs.
-- Automatically retrieve COBOL copybooks from the mainframe.
-- Trace HLASM macros.
-- Retrieve, browse and search Endevor elements.
-- Access z/OS Datasets and z/OS Unix file systems, and submit JCLs.
-- View and edit VSAM data sets using layouts and selection criteria.
-- Debug COBOL code for CICS and Batch applications.
-- View abend reports and symbolic data for CICS and Batch programs. 
-- View and download job output.
-- Issue TSO and MVS commands.
+The Code4z extension pack provides a modern mainframe programming experience and includes:
+
+- **Language support** for IBM Enterprise COBOL 6.0 and high-level assembler language. The COBOL Language Support and HLASM Language Support extensions provide syntax highlighting, syntax validation and content assist when editing COBOL and HLASM code. You can also configure COBOL Language Support to automatically download your copybooks from the mainframe. The COBOL Control Flow application provides graphical visualization of program flow for COBOL programs.
+- **Data editing and file management** of mainframe data sets. With Zowe Explorer you can allocate, copy, rename and edit mainframe data sets in VS Code and save them to the mainframe. The Data Editor for Mainframe extension further allows you to edit VSAM data sets, apply record layouts, and filter records using selection criteria.
+- **Testing tools** for CICS and Batch programs. The Debugger for Mainframe extension lets you debug CICS and Batch applications written in COBOL. With Abend Analyzer for Mainframe you can view abend reports and symbolic data. The HLASM Language Support extensions also lets you trace Assembler macros interactively.
+- **Source code management** integrated with Endevor. Using the Explorer for Endevor extension you can retrieve, browse and search Endevor elements in your IDE.
+- **Mainframe operations** including issuing TSO and MVS commands and submitting JCLs.
 
 ## What’s New
 * 2022-04-XX - New extensions [Abend Analyzer for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.abend-analyzer) (version 1.0.0) and [Data Editor for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.data-editor-for-mainframe) (version 1.0.0) added to the Code4z package.
