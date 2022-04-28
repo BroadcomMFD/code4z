@@ -12,7 +12,7 @@ Code4z is compatible with Microsoft Visual Studio Code and Github Codespaces.
 
 ## How Does It Work?
 
-The Code4z extension pack simplifies your common workflows and enables you to work with COBOL and HLASM code in the same way you work with other languages in Visual Studio Code. The pack provides a modern mainframe programming experience and includes tools for:
+The Code4z extension pack simplifies your common workflows and enables you to work with COBOL and HLASM code in the same way you work with other languages in Visual Studio Code. The pack provides a modern mainframe programming experience and includes the following features:
 
 - **Language support** for IBM Enterprise COBOL 6.0 and high-level assembler language. 
   - The COBOL Language Support and HLASM Language Support extensions provide syntax highlighting, syntax validation, and content assistance when editing COBOL and HLASM code. Code4z extensions utilize language servers that are fully compatible with the [Language Server Protocol Specification](https://microsoft.github.io/language-server-protocol/specification). 
@@ -50,7 +50,7 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
 * Trigger the CICS transaction on the mainframe.
 * Start a debug session using Debugger for Mainframe.
 * Stop at designated breakpoints, displaying and changing any problematic code or variable values.
-* Using Data Editor for Mainframe, correct any errors that arise from data in VSAM files.
+* Use Data Editor for Mainframe to extend the test data in your VSAM files.
 * Run the debug session again.
 
 ## What’s New
