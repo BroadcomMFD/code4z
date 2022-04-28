@@ -4,7 +4,6 @@
 
 Code4z is an all-in-one VS Code extension pack for mainframe users working with z/OS. Code4z provides language support for COBOL and High Level Assembler for z/OS and graphical visualization of COBOL applications. The pack also includes data editing and file management tools, Explorer for Endevor, and extensions for interactive debugging, macro tracing, and abend analysis. Code4z is free to install and use.
 
-
 Code4z is compatible with Microsoft Visual Studio Code and Github Codespaces.
 
 <div align="center">
@@ -17,43 +16,32 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
 
 - **Language support** for IBM Enterprise COBOL 6.0 and high-level assembler language. 
   - The COBOL Language Support and HLASM Language Support extensions provide syntax highlighting, syntax validation, and content assistance when editing COBOL and HLASM code. Code4z extensions utilize language servers that are fully compatible with the [Language Server Protocol Specification](https://microsoft.github.io/language-server-protocol/specification). 
-
   - You can configure COBOL Language Support to automatically download your copybooks from the mainframe. 
   - The COBOL Control Flow application provides graphical visualization of program flow for COBOL programs.
 - **Data editing and file management** of mainframe data sets. 
   - With Zowe Explorer you can allocate, copy, rename, and edit mainframe data sets in VS Code and save them to the mainframe. 
-
   - The Data Editor for Mainframe extension enables you to edit VSAM data sets, apply record layouts, and filter records using selection criteria.
-
 - **Testing tools** for CICS and Batch programs. 
   - The Debugger for Mainframe extension enables you to debug CICS and Batch applications that are written in COBOL. 
-
   - With Abend Analyzer for Mainframe you can view abend reports and symbolic data. 
   - The HLASM Language Support extension enables you to trace Assembler macros interactively.
-
 - **Source code management** integrated with Endevor. 
   - With the help of the Explorer for Endevor extension you can retrieve, browse, and search Endevor elements in your IDE.
-
 - **Mainframe operations**.
   - With Zowe Explorer you can issue TSO and MVS commands and submit JCLs.
-
 
 ### Sample Workflows
 
 #### Edit COBOL and HLASM source code stored on the mainframe
 
 * Use the VS Code built-in Git interface to clone source code from Endevor, using Endevor Bridge for Git.
-
-* Edit COBOL code using COBOL Language Support, taking advantage of all the coding assistance provided by the extension.
+* Edit COBOL code with COBOL Language Support, and take advantage of all the coding assistance that the extension provides.
 * Use COBOL Control Flow to easily navigate around different parts of the source code.
 * Edit assembler code and trace macros using HLASM Language Support.
 * Locate all copybooks in the Git folder structure and, if needed, download other copybooks that are used in the source code from the mainframe.
-
 * Use the VS Code built-in Git interface to push, pull, and merge changes.
-
 * Search and browse additional code elements in the entire map of Endevor, using the Explorer for Endevor extension. The COBOL Language Support extension provides syntax awareness for COBOL elements.
-
-* Download code elements, including their dependencies, into the current workspace using the Explorer for Endevor extension, and synchronize them with the Git project if code modifications are needed.
+* Use Explorer for Endevor to download code elements and their into the current workspace, and synchronize them with the Git project if you need to modify code.
 
 #### Run a debug session on a CICS program
 
