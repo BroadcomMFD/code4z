@@ -2,7 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-BROADCOM-brightgreen)](https://github.com/BroadcomMFD/code4z/blob/master/LICENSE)
 
-Code4z is an all-in-one VS Code extension pack for mainframe users working with z/OS. Code4z provides language support for COBOL and High Level Assembler for z/OS and graphical visualization of COBOL applications. It also includes data editing and file management tools, Explorer for Endevor, and extensions for interactive debugging, macro tracing and abend analysis. Code4z is free to install and use.
+Code4z is an all-in-one VS Code extension pack for mainframe users working with z/OS. Code4z provides language support for COBOL and High Level Assembler for z/OS and graphical visualization of COBOL applications. The pack also includes data editing and file management tools, Explorer for Endevor, and extensions for interactive debugging, macro tracing, and abend analysis. Code4z is free to install and use.
+
 
 Code4z is compatible with Microsoft Visual Studio Code and Github Codespaces.
 
