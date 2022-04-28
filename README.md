@@ -204,7 +204,8 @@ Debugger for Mainframe provides the debugging interface to [InterTest™ for CIC
 
 ## [Abend Analyzer for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.abend-analyzer)
 
-Abend Analyzer for Mainframe provides an interface to [SymDump® CICS](https://www.broadcom.com/products/mainframe/testing-and-quality/symdump-cics) and [SymDump® Batch](https://www.broadcom.com/products/mainframe/testing-and-quality/symdump-batch). This extension allows you to browse, manage and view formatted abend reports and symbolic data in a modern IDE environment.
+Abend Analyzer for Mainframe provides an interface to [SymDump® CICS](https://www.broadcom.com/products/mainframe/testing-and-quality/symdump-cics) and [SymDump® Batch](https://www.broadcom.com/products/mainframe/testing-and-quality/symdump-batch). The extension enables you to browse, manage, and view formatted abend reports and symbolic data in a modern IDE environment.
+
 
 > How can we improve Abend Analyzer for Mainframe? [Let us know on our Git repository](https://github.com/BroadcomMFD/abend-analyzer-for-mainframe/issues)
 
