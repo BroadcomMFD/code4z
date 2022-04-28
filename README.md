@@ -51,7 +51,8 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
 
 * Use the VS Code built-in Git interface to push, pull, and merge changes.
 
-* Search and browse additional code elements in the entire map of Endevor using the Explorer for Endevor extension. The COBOL Language Support extension provides syntax awareness for COBOL elements.
+* Search and browse additional code elements in the entire map of Endevor, using the Explorer for Endevor extension. The COBOL Language Support extension provides syntax awareness for COBOL elements.
+
 * Download code elements, including their dependencies, into the current workspace using the Explorer for Endevor extension, and synchronize them with the Git project if code modifications are needed.
 
 #### Run a debug session on a CICS program
