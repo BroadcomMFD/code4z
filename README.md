@@ -169,7 +169,8 @@ This extension offers best developer experience in synergy with [Bridge for Git]
 
 ## [Data Editor for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.data-editor-for-mainframe)
 
-The Data Editor for Mainframe extension for VS Code adds a modern user interface to [File Master Plus for MVS](https://www.broadcom.com/products/mainframe/testing-and-quality/file-master-plus). Data Editor for Mainframe allows you to view and edit mainframe data sets, including VSAM data sets, in your IDE.
+The Data Editor for Mainframe extension for VS Code adds a modern user interface to [File Master Plus for MVS](https://www.broadcom.com/products/mainframe/testing-and-quality/file-master-plus). Data Editor for Mainframe enables you to view and edit mainframe data sets, including VSAM data sets, in your IDE.
+
 
 > How can we improve Data Editor for Mainframe? [Let us know on our Git repository](https://github.com/BroadcomMFD/data-editor-for-mainframe/issues)
 
