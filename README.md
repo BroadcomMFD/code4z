@@ -28,7 +28,8 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
 - **Testing tools** for CICS and Batch programs. 
   - The Debugger for Mainframe extension lets you debug CICS and Batch applications written in COBOL. 
   - With Abend Analyzer for Mainframe you can view abend reports and symbolic data. 
-  - The HLASM Language Support extension lets you trace Assembler macros interactively.
+  - The HLASM Language Support extension enables you to trace Assembler macros interactively.
+
 - **Source code management** integrated with Endevor. 
   - Using the Explorer for Endevor extension you can retrieve, browse and search Endevor elements in your IDE.
 - **Mainframe operations**.
