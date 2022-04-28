@@ -3,7 +3,7 @@
 	"license": "SEE LICENSE IN LICENSE",
 	"displayName": "Code4z",
 	"description": "Extension pack for Mainframe users working with z/OS applications and tools",
-	"version": "1.2.4",
+	"version": "2.0.0",
 	"publisher": "broadcomMFD",
 	"icon": "icon.png",
 	"galleryBanner": {
@@ -29,7 +29,12 @@
 		"uss",
 		"debugger",
 		"ca-intertest",
-		"cics"
+		"cics",
+		"vsam",
+		"abend",
+		"symdump",
+		"ksds",
+		"fmp"
 	],
 	"categories": [
 		"Extension Packs"
@@ -45,6 +50,8 @@
 		"broadcomMFD.explorer-for-endevor",
 		"broadcomMFD.hlasm-language-support",
 		"broadcomMFD.debugger-for-mainframe",
-		"broadcomMFD.ccf"
+		"broadcomMFD.ccf",
+		"broadcomMFD.data-editor-for-mainframe",
+		"broadcomMFD.abend-analyzer"
 	]
 }
