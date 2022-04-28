@@ -31,7 +31,8 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
   - The HLASM Language Support extension enables you to trace Assembler macros interactively.
 
 - **Source code management** integrated with Endevor. 
-  - Using the Explorer for Endevor extension you can retrieve, browse and search Endevor elements in your IDE.
+  - With the help of the Explorer for Endevor extension you can retrieve, browse, and search Endevor elements in your IDE.
+
 - **Mainframe operations**.
   - With Zowe Explorer you can issue TSO and MVS commands, and submit JCLs.
 
