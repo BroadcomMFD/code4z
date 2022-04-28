@@ -45,7 +45,8 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
 * Edit COBOL code using COBOL Language Support, taking advantage of all the coding assistance provided by the extension.
 * Use COBOL Control Flow to easily navigate around different parts of the source code.
 * Edit assembler code and trace macros using HLASM Language Support.
-* Locate all copybooks in the Git folder structure, and if needed, download other copybooks used in the source code from the mainframe.
+* Locate all copybooks in the Git folder structure and, if needed, download other copybooks that are used in the source code from the mainframe.
+
 * Use VS Code’s built-in Git interface to push, pull and merge changes.
 * Search and browse additional code elements in the entire map of Endevor using the Explorer for Endevor extension. The COBOL Language Support extension provides syntax awareness for COBOL elements.
 * Download code elements, including their dependencies, into the current workspace using the Explorer for Endevor extension, and synchronize them with the Git project if code modifications are needed.
