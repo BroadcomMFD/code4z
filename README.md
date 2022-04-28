@@ -176,7 +176,8 @@ The Data Editor for Mainframe extension for VS Code adds a modern user interface
 
 ### Features
 
-- Browse and edit VSAM data sets, sequential data sets and PDS members.
+- Browse and edit VSAM data sets, sequential data sets, and PDS members.
+
 - Apply layouts to view data set records in single-record format.
 - Interactively filter records using selection criteria.
 
