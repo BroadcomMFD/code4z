@@ -30,8 +30,31 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
 - **Mainframe operations**.
   - With Zowe Explorer you can issue TSO and MVS commands, and submit JCLs.
 
+### Sample Workflows
+
+#### Edit COBOL source code stored on the mainframe
+
+* Use VS Code’s built-in Git interface to clone source code from Endevor using Endevor’s Bridge for Git.
+* Edit COBOL code using COBOL Language Support, taking advantage of all the coding assistance provided by the extension.
+* Use COBOL Control Flow to easily navigate around different parts of the source code.
+* Locate all copybooks in the Git folder structure, and if needed, download other copybooks used in the source code from the mainframe.
+* Use VS Code’s built-in Git interface to push, pull and merge changes.
+* Search and browse additional code elements in the entire map of Endevor using the Explorer for Endevor extension. The COBOL Language Support extension provides syntax awareness for COBOL elements.
+* Download code elements, including their dependencies, into the current workspace using the Explorer for Endevor extension, and synchronize them with the Git project if code modifications are needed.
+
+#### Run a debug session on a CICS program
+
+* Edit and execute JCL with Zowe Explorer to run unit tests.
+* Use Abend Analyzer for Mainframe to view an abend report and diagnose an issue.
+* Set up a debug session using Debugger for Mainframe and set breakpoints in the code.
+* Trigger the CICS transaction on the mainframe.
+* Start a debug session using Debugger for Mainframe.
+* Stop at designated breakpoints, displaying and changing any problematic code or variable values.
+* Using Data Editor for Mainframe, correct any errors that arise from data in VSAM files.
+* Run the debug session again.
+
 ## What’s New
-* 2022-04-XX - New extensions [Abend Analyzer for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.abend-analyzer) (version 1.0.0) and [Data Editor for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.data-editor-for-mainframe) (version 1.0.0) added to the Code4z package.
+* 2022-04-28 - New extensions [Abend Analyzer for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.abend-analyzer) (version 1.0.0) and [Data Editor for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.data-editor-for-mainframe) (version 1.0.0) added to the Code4z package.
 * 2022-04-27 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) version 2.0.0, see [Changelog](https://marketplace.visualstudio.com/items/Zowe.vscode-extension-for-zowe/changelog).
 * 2022-04-21 - [COBOL Control Flow](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf) version 1.0.0, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.ccf/changelog).
 * 2022-04-13 - [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor) version 1.1.0, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.explorer-for-endevor/changelog).
@@ -189,29 +212,3 @@ Abend Analyzer for Mainframe provides an interface to [SymDump® CICS](https://w
 ### Blogs
 
 - [Abend Analyzer for Mainframe](https://medium.com/modern-mainframe/abend-analyzer-for-mainframe-97922fbfc340)
-
-## Sample Workflows
-
-### Edit COBOL source code stored on the mainframe
-
-* Use VS Code’s built-in Git interface to clone source code from Endevor using Endevor’s Bridge for Git.
-* Edit COBOL code using COBOL Language Support, taking advantage of all the coding assistance provided by the extension.
-* Use COBOL Control Flow to easily navigate around different parts of the source code.
-* Locate all copybooks in the Git folder structure, and if needed, download other copybooks used in the source code from the mainframe.
-* Use VS Code’s built-in Git interface to push, pull and merge changes.
-* Search and browse additional code elements in the entire map of Endevor using the Explorer for Endevor extension. The COBOL Language Support extension provides syntax awareness for COBOL elements.
-* Download code elements, including their dependencies, into the current workspace using the Explorer for Endevor extension, and synchronize them with the Git project if code modifications are needed.
-
-### Run a debug session on a CICS program
-
-* Use Abend Analyzer for Mainframe to view an abend report and diagnose the issue.
-* Set up a debug session using Debugger for Mainframe and set breakpoints in the code.
-* Trigger the CICS transaction 
-* Start a debug session using Debugger for Mainframe.
-* Stop at designated breakpoints, displaying and changing any problematic code or variable values.
-* Using Data Editor for Mainframe, correct any errors that arise from data in VSAM files.
-* Run the debug session again.
-
-### Zowe Explorer and Zowe CLI
-
-* Access mainframe files and execute jobs, either from an interactive graphical interface or in the terminal with CLI. Whether you want to view a PDS, allocate a dataset, change a JCL, submit a mainframe compile, or download and upload files, both interfaces provide these capabilities.
