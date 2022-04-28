@@ -23,7 +23,8 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
 - **Data editing and file management** of mainframe data sets. 
   - With Zowe Explorer you can allocate, copy, rename, and edit mainframe data sets in VS Code and save them to the mainframe. 
 
-  - The Data Editor for Mainframe extension allows you to edit VSAM data sets, apply record layouts, and filter records using selection criteria.
+  - The Data Editor for Mainframe extension enables you to edit VSAM data sets, apply record layouts, and filter records using selection criteria.
+
 - **Testing tools** for CICS and Batch programs. 
   - The Debugger for Mainframe extension lets you debug CICS and Batch applications written in COBOL. 
   - With Abend Analyzer for Mainframe you can view abend reports and symbolic data. 
