@@ -1,3 +1,9 @@
+## [2.0.0] 2022-04-28
+
+- Data Editor for Mainframe added
+- Abend Analyzer for Mainfame added
+- Readme update
+
 ## [1.2.4] 2022-03-18
 
 - Readme update
