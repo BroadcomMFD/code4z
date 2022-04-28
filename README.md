@@ -40,7 +40,8 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
 
 #### Edit COBOL and HLASM source code stored on the mainframe
 
-* Use VS Code’s built-in Git interface to clone source code from Endevor using Endevor’s Bridge for Git.
+* Use the VS Code built-in Git interface to clone source code from Endevor, using Endevor Bridge for Git.
+
 * Edit COBOL code using COBOL Language Support, taking advantage of all the coding assistance provided by the extension.
 * Use COBOL Control Flow to easily navigate around different parts of the source code.
 * Edit assembler code and trace macros using HLASM Language Support.
