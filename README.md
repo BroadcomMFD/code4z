@@ -109,7 +109,8 @@ COBOL Control Flow provides graphical visualization of program flow for programs
 [![GitHub issues](https://img.shields.io/github/issues-raw/eclipse/che-che4z-lsp-for-hlasm?style=flat-square)](https://github.com/eclipse/che-che4z-lsp-for-hlasm/issues)
 [![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://communityinviter.com/apps/che4z/code4z)
 
-HLASM Language Support is an extension that supports the High Level Assembler language. It provides code completion, highlighting and navigation features, shows mistakes in the source, and lets you trace how the conditional assembly is evaluated with a modern debugging experience.
+HLASM Language Support is an extension that supports the High Level Assembler language. The extension provides code completion, highlighting and navigation features, shows mistakes in the source, and enables you to check how the conditional assembly is evaluated with a modern debugging experience.
+
 
 > How can we improve HLASM Language Support? [Let us know on our Git repository](https://github.com/eclipse/che-che4z-lsp-for-hlasm/issues)
 
