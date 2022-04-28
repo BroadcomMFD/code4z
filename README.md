@@ -21,7 +21,8 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
   - You can configure COBOL Language Support to automatically download your copybooks from the mainframe. 
   - The COBOL Control Flow application provides graphical visualization of program flow for COBOL programs.
 - **Data editing and file management** of mainframe data sets. 
-  - With Zowe Explorer you can allocate, copy, rename and edit mainframe data sets in VS Code and save them to the mainframe. 
+  - With Zowe Explorer you can allocate, copy, rename, and edit mainframe data sets in VS Code and save them to the mainframe. 
+
   - The Data Editor for Mainframe extension allows you to edit VSAM data sets, apply record layouts, and filter records using selection criteria.
 - **Testing tools** for CICS and Batch programs. 
   - The Debugger for Mainframe extension lets you debug CICS and Batch applications written in COBOL. 
