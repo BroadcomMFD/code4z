@@ -91,7 +91,8 @@ COBOL Language Support enhances the COBOL programming experience on your IDE. Th
 [![GitHub issues](https://img.shields.io/github/issues-raw/broadcomMFD/cobol-control-flow?style=flat-square)](https://github.com/BroadcomMFD/cobol-control-flow/issues)
 [![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://communityinviter.com/apps/che4z/code4z)
 
-COBOL Control Flow provides graphical visualization of program flow for programs written in COBOL. The extension is designed to help COBOL developers to quickly comprehend and debug COBOL programs with which they might not be familiar.
+COBOL Control Flow provides graphical visualization of program flow for programs that are written in COBOL. The extension is designed to help COBOL developers to quickly comprehend and debug COBOL programs that they might not be familiar with.
+
 
 > How can we improve COBOL Control Flow? [Let us know on our Git repository](https://github.com/BroadcomMFD/cobol-control-flow/issues)
 
