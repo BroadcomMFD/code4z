@@ -10,6 +10,8 @@ Code4z is compatible with Microsoft Visual Studio Code and Github Codespaces.
   <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/master/extensions4.png" alt="Code4z Extensions" />
 </div>
 
+<a href="https://www.openmainframeproject.org/all-projects/zowe/conformance"><img alt="This extension is Zowe v2 conformant" src="https://artwork.openmainframeproject.org/other/zowe-conformant/zowev2/explorer/color/zowe-conformant-zowev2-explorer-color.png" width=20% height=20% /></a>
+
 ## How Does It Work?
 
 The Code4z extension pack simplifies your common workflows and enables you to work with COBOL and HLASM code in the same way you work with other languages in Visual Studio Code. The pack provides a modern mainframe programming experience and includes the following features:
@@ -30,8 +32,6 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
 - **Mainframe operations**.
   - With Zowe Explorer you can issue TSO and MVS commands and submit JCLs.
   
-<a href="https://www.openmainframeproject.org/all-projects/zowe/conformance"><img alt="This extension is Zowe v2 conformant" src="https://artwork.openmainframeproject.org/other/zowe-conformant/zowev2/explorer/color/zowe-conformant-zowev2-explorer-color.png" width=20% height=20% /></a>
-
 ### Sample Workflows
 
 #### Edit COBOL and HLASM source code stored on the mainframe
