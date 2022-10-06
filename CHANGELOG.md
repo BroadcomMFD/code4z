@@ -1,3 +1,8 @@
+## [2.0.1] 2022-10-06
+
+- ZE v2 conformance
+- Readme update
+
 ## [2.0.0] 2022-04-28
 
 - Data Editor for Mainframe extension added
