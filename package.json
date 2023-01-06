@@ -66,7 +66,7 @@
 						"title": "Set Up a Zowe Profile",
 						"description": "Create a Zowe Profile and add it to the Data Sets view in Zowe Explorer. A Zowe Profile enables you to connect to the mainframe and retrieve data sets to open on VS Code, and perform other actions such as submit JCL. To unlock all features, we recommend that you include your mainframe credentials within your Zowe profile. \n[Add Zowe Profile](command:zowe.ds.addSession)",
 						"media": {
-							"image": "/media/extensions4.png",
+							"image": "extensions4.png",
 							"altText": "Code4z"
 						},
 						"completionEvents": [ "onCommand:zowe.ds.addSession"
@@ -77,7 +77,7 @@
 						"title": "Ensure that your Java PATH variable is configured",
 						"description": "Several Code4z extensions require Java (version 8 or higher) to be configured along with the PATH variable. For more information, see the Java documentation. \n[Java documentation (opens in new window)](https://www.java.com/en/download/help/path.html)",
 						"media": {
-							"image": "/media/extensions4.png",
+							"image": "extensions4.png",
 							"altText": "Code4z"
 						},
 						"completionEvents": [
@@ -88,7 +88,7 @@
 						"title": "Specify Testing Tools Server for Data Editor for Mainframe",
 						"description": "To use the Data Editor for Mainframe extension, specify the host and port of your Testing Tools Server in your extension settings. \n[Open Extension Settings](command:workbench.action.openSettings?%22@ext:BroadcomMFD.data-editor-for-mainframe%22)",
 						"media": {
-							"image": "/media/extensions4.png",
+							"image": "extensions4.png",
 							"altText": "Code4z"
 						},
 						"completionEvents": [
@@ -99,7 +99,7 @@
 						"title": "Add a connection to your Testing Tools Server for Abend Analyzer for Mainframe",
 						"description": "To use the Abend Analyzer for Mainframe extension, add a connection and specify the host and port of your Testing Tools Server. \n[Add a connection](command:symdump.newConnection)",
 						"media": {
-							"image": "/media/extensions4.png",
+							"image": "extensions4.png",
 							"altText": "Code4z"
 						},
 						"completionEvents": [ "onCommand:symdump.newConnection"
@@ -110,7 +110,7 @@
 						"title": "Configure Debugger for Mainframe for a Secure Connection (Optional)",
 						"description": "Consult the \"Set Up Secure Connection\" section in the Debugger for Mainframe readme file for instructions on how to configure Debugger for Mainframe for a Secure Connection. You can choose one of several methods to import the certificate. \nSkip this step if you do not want to use the secure connection. \n[Documentation (opens in new window)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe)",
 						"media": {
-							"image": "/media/extensions4.png",
+							"image": "extensions4.png",
 							"altText": "Code4z"
 						},
 						"completionEvents": [
@@ -121,7 +121,7 @@
 						"title": "Learn how to use individual extensions",
 						"description": "See more guides on how to use individual Code4z extensions, including Debugger for Mainframe and Explorer for Endevor. \n[Select a Guide](command:welcome.showAllWalkthroughs)",
 						"media": {
-							"image": "/media/extensions4.png",
+							"image": "extensions4.png",
 							"altText": "Code4z"
 						},
 						"completionEvents": ["onCommand:welcome.showAllWalkthroughs"]
