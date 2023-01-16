@@ -3,7 +3,7 @@
 	"license": "SEE LICENSE IN LICENSE",
 	"displayName": "Code4z",
 	"description": "Extension pack for Mainframe users working with z/OS applications and tools",
-	"version": "2.0.1",
+	"version": "2.1.0",
 	"publisher": "broadcomMFD",
 	"icon": "icon.png",
 	"galleryBanner": {
@@ -64,7 +64,7 @@
 					{
 						"id": "profile",
 						"title": "Set Up a Zowe Profile",
-						"description": "Create a Zowe Profile and add it to the Data Sets view in Zowe Explorer. A Zowe Profile enables you to connect to the mainframe and retrieve data sets to open on VS Code, and perform other actions such as submit JCL. To unlock all features, we recommend that you include your mainframe credentials within your Zowe profile. \n[Add Zowe Profile](command:zowe.ds.addSession)",
+						"description": "Create a Zowe Profile and add it to the Data Sets view in Zowe Explorer to connect to the mainframe and open mainframe data sets on VS Code, submit JCL, and perform other actions. To unlock all features, we recommend that you include your mainframe credentials within your Zowe Profile. \n[Add Zowe Profile](command:zowe.ds.addSession)",
 						"media": {
 							"image": "extensions4.png",
 							"altText": "Code4z"
@@ -108,7 +108,7 @@
 					{
 						"id": "de4msecure",
 						"title": "Configure Debugger for Mainframe for a Secure Connection (Optional)",
-						"description": "Consult the \"Set Up Secure Connection\" section in the Debugger for Mainframe readme file for instructions on how to configure Debugger for Mainframe for a Secure Connection. You can choose one of several methods to import the certificate. \nSkip this step if you do not want to use the secure connection. \n[Documentation (opens in new window)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe)",
+						"description": "Consult the \"Set Up Secure Connection\" section in the Debugger for Mainframe readme file for instructions on how to configure Debugger for Mainframe for a Secure Connection. You can choose one of several methods to import the certificate. \n[Documentation (opens in new window)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe)",
 						"media": {
 							"image": "extensions4.png",
 							"altText": "Code4z"
@@ -119,7 +119,7 @@
 					{
 						"id": "seemore",
 						"title": "Learn how to use individual extensions",
-						"description": "See more guides on how to use individual Code4z extensions, including Debugger for Mainframe and Explorer for Endevor. \n[Select a Guide](command:welcome.showAllWalkthroughs)",
+						"description": "See more walkthroughs on how to use individual Code4z extensions, including Debugger for Mainframe and Explorer for Endevor. \n[Select a Guide](command:welcome.showAllWalkthroughs)",
 						"media": {
 							"image": "extensions4.png",
 							"altText": "Code4z"
