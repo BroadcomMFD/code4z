@@ -70,9 +70,9 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
 
 ## Getting Started
 
-Code4z includes a Day 1 Checklist walkthrough on VS Code, which guides you through the first tasks to perform after installing the extension pack.
+Code4z includes a Day 1 Task Checklist walkthrough, which guides you through the first tasks to perform after you install the extension pack.
 
-To launch the walkthrough, open **Get Started** from the **Help** menu, and select **Code4z Day 1 Checklist** under **Walkthroughs**.
+To launch the walkthrough, open **Get Started** from the **Help** menu, and select **Code4z Day 1 Task Checklist** under **Walkthroughs**.
 
 ## [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support)
 
