@@ -24,7 +24,7 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
   - With Zowe Explorer you can allocate, copy, rename, and edit mainframe data sets in VS Code and save them to the mainframe. 
   - The Data Editor for Mainframe extension enables you to edit VSAM data sets, apply record layouts, and filter records using selection criteria.
 - **Testing tools** for CICS and Batch programs. 
-  - The Debugger for Mainframe extension enables you to debug CICS and Batch applications that are written in COBOL. 
+  - The Debugger for Mainframe extension enables you to debug CICS and Batch applications that are written in COBOL and High-Level Assembler Language. 
   - With Abend Analyzer for Mainframe you can view abend reports and symbolic data. 
   - The HLASM Language Support extension enables you to trace Assembler macros interactively.
 - **Source code management** integrated with Endevor. 
@@ -55,18 +55,24 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
 * Run the tests again.
 
 ## What’s New
-* 2022-09-08 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) version 2.3.0, see [Changelog](https://marketplace.visualstudio.com/items/Zowe.vscode-extension-for-zowe/changelog).
-* 2022-08-31 - [HLASM Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) version 1.4.0, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.hlasm-language-support/changelog).
-* 2022-08-12 - [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor) version 1.2.0, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.explorer-for-endevor/changelog).
-* 2022-07-11 - [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) version 1.6.0, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.debugger-for-mainframe/changelog).
+* 2023-01-18 - [HLASM Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) version 1.6.0, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.hlasm-language-support/changelog).
+* 2023-01-13 - [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) version 1.7.0, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.debugger-for-mainframe/changelog).
+* 2022-12-15 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) version 2.5.0, see [Changelog](https://marketplace.visualstudio.com/items/Zowe.vscode-extension-for-zowe/changelog).
+* 2022-12-08 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) version 1.1.1, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.cobol-language-support/changelog).
+* 2022-11-24 - [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor) version 1.3.2, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.explorer-for-endevor/changelog).
+* 2022-11-16 - [COBOL Control Flow](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf) version 1.0.4, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.ccf/changelog).
 * 2022-06-30 - [Abend Analyzer for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.abend-analyzer) version 1.0.1, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.abend-analyzer/changelog).
-* 2022-06-29 - [COBOL Control Flow](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf) version 1.0.2, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.ccf/changelog).
-* 2022-06-29 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) version 1.0.2, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.cobol-language-support/changelog).
 * 2022-04-28 - New extensions [Abend Analyzer for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.abend-analyzer) (version 1.0.0) and [Data Editor for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.data-editor-for-mainframe) (version 1.0.0) added to the Code4z package.
 
 ## Prerequisites
 
 * Individual extension prerequisites are detailed in the individual readme files linked below.
+
+## Getting Started
+
+Code4z includes a Day 1 Checklist walkthrough on VS Code, which guides you through the first tasks to perform after installing the extension pack.
+
+To launch the walkthrough, open **Get Started** from the **Help** menu, and select **Code4z Day 1 Checklist** under **Walkthroughs**.
 
 ## [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support)
 
@@ -198,8 +204,8 @@ Debugger for Mainframe provides the debugging interface to [InterTest™ for CIC
 
 ### Features
 
-* Debug COBOL code for applications running in a CICS region.
-* Debug COBOL code for Batch applications.
+* Debug COBOL and HLASM code for applications running in a CICS region.
+* Debug COBOL and HLASM code for Batch applications.
 
 ### Videos
 
