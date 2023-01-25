@@ -19,22 +19,11 @@
 		"mainframe",
 		"hlasm",
 		"cobol",
-		"zos",
 		"lsp",
-		"assembler",
-		"dataset",
 		"explorer",
 		"endevor",
-		"jcl",
-		"uss",
 		"debugger",
-		"ca-intertest",
-		"cics",
-		"vsam",
 		"abend",
-		"symdump",
-		"ksds",
-		"fmp"
 	],
 	"categories": [
 		"Extension Packs"
