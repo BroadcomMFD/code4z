@@ -1,3 +1,8 @@
+## [2.1.0] 2023-01-25
+
+- Day 1 task checklist walkthrough added
+- Readme update
+
 ## [2.0.1] 2022-10-06
 
 - ZE v2 conformance
