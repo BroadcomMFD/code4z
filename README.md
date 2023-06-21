@@ -11,7 +11,8 @@ Code4z is compatible with Microsoft Visual Studio Code and Github Codespaces.
 
 <a href="https://www.openmainframeproject.org/all-projects/zowe/conformance"><img alt="This extension is Zowe v2 conformant" src="https://artwork.openmainframeproject.org/other/zowe-conformant/zowev2/explorer/color/zowe-conformant-zowev2-explorer-color.png" width=20% height=20% /></a>
 </div>
-  
+
+
 ## How Does It Work?
 
 The Code4z extension pack simplifies your common workflows and enables you to work with COBOL and HLASM code in the same way you work with other languages in Visual Studio Code. The pack provides a modern mainframe programming experience and includes the following features:
