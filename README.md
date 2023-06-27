@@ -56,13 +56,13 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
 * Run the tests again.
 
 ## What’s New
+* 2023-06-27 - [Abend Analyzer for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.abend-analyzer) version 1.1.0, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.abend-analyzer/changelog).
 * 2023-06-05 - [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) version 1.8.0, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.debugger-for-mainframe/changelog).
 * 2023-06-02 - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support) version 2.0.0, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.cobol-language-support/changelog).
 * 2023-06-01 - [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor) version 1.5.2, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.explorer-for-endevor/changelog).
 * 2023-05-31 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) version 2.8.2, see [Changelog](https://marketplace.visualstudio.com/items/Zowe.vscode-extension-for-zowe/changelog).
 * 2023-05-31 - [HLASM Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support) version 1.8.0, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.hlasm-language-support/changelog).
 * 2023-03-13 - [COBOL Control Flow](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf) version 1.0.5, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.ccf/changelog).
-* 2022-06-30 - [Abend Analyzer for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.abend-analyzer) version 1.0.1, see [Changelog](https://marketplace.visualstudio.com/items/broadcomMFD.abend-analyzer/changelog).
 * 2022-04-28 - New extensions [Abend Analyzer for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.abend-analyzer) (version 1.0.0) and [Data Editor for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.data-editor-for-mainframe) (version 1.0.0) added to the Code4z package.
 
 ## Prerequisites
