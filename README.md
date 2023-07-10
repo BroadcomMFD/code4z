@@ -31,7 +31,7 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
 - **Source code management** integrated with Endevor. 
   - With the help of the Explorer for Endevor extension you can retrieve, browse, and search Endevor elements in your IDE.
 - **Mainframe operations**.
-  - With Zowe Explorer you can issue TSO and MVS commands and submit JCLs.
+  - With Zowe Explorer you can issue TSO and MVS commands and submit JCL.
   
 ### Sample Workflows
 
@@ -141,7 +141,7 @@ You can learn more about the Zowe Explorer by watching the [Getting Started](htt
 
 ### Features
 
-- Access z/OS Datasets and z/OS Unix file systems, and submit JCLs.
+- Access z/OS Datasets and z/OS Unix file systems, and submit JCL.
 - Create, edit, and work with z/OSMF compatible profiles.
 - Store your credentials securely with Secure Credentials Store plug-in.
 - View and download job output.
