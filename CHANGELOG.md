@@ -1,3 +1,7 @@
+## [2.1.1] 2023-07-13
+
+- Readme update
+
 ## [2.1.0] 2023-01-25
 
 - Day 1 task checklist walkthrough added
