@@ -79,7 +79,7 @@ To launch the walkthrough, open **Get Started** from the **Help** menu, and sele
 
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/broadcomMFD.cobol-language-support?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support)
 [![GitHub issues](https://img.shields.io/github/issues-raw/eclipse/che-che4z-lsp-for-cobol?style=flat-square)](https://github.com/eclipse/che-che4z-lsp-for-cobol/issues)
-[![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](http://che4z.slack.com/)
+[![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://join.slack.com/t/che4z/shared_invite/zt-22b0064vn-nBh~Fs9Fl47Prp5ItWOLWw)
 
 COBOL Language Support enhances the COBOL programming experience on your IDE. The extension leverages the language server protocol to provide autocomplete, syntax highlighting and coloring, and diagnostic features for COBOL code and copybooks. The COBOL Language Support extension can also connect to a mainframe using the Zowe Explorer extension to automatically retrieve copybooks that are used in your programs and store them in your workspace.
 
@@ -96,7 +96,7 @@ COBOL Language Support enhances the COBOL programming experience on your IDE. Th
 ## [COBOL Control Flow](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf)
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/broadcomMFD.ccf?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf)
 [![GitHub issues](https://img.shields.io/github/issues-raw/broadcomMFD/cobol-control-flow?style=flat-square)](https://github.com/BroadcomMFD/cobol-control-flow/issues)
-[![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](http://che4z.slack.com/)
+[![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://join.slack.com/t/che4z/shared_invite/zt-22b0064vn-nBh~Fs9Fl47Prp5ItWOLWw)
 
 COBOL Control Flow provides graphical visualization of program flow for programs that are written in COBOL. The extension is designed to help COBOL developers to quickly comprehend and debug COBOL programs that they might not be familiar with.
 
@@ -114,7 +114,7 @@ COBOL Control Flow provides graphical visualization of program flow for programs
 
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/broadcomMFD.hlasm-language-support?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support)
 [![GitHub issues](https://img.shields.io/github/issues-raw/eclipse/che-che4z-lsp-for-hlasm?style=flat-square)](https://github.com/eclipse/che-che4z-lsp-for-hlasm/issues)
-[![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](http://che4z.slack.com/)
+[![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://join.slack.com/t/che4z/shared_invite/zt-22b0064vn-nBh~Fs9Fl47Prp5ItWOLWw)
 
 HLASM Language Support is an extension that supports the High Level Assembler language. The extension provides code completion, highlighting and navigation features, shows mistakes in the source, and enables you to check how the conditional assembly is evaluated with a modern debugging experience.
 
@@ -158,7 +158,7 @@ You can learn more about the Zowe Explorer by watching the [Getting Started](htt
 
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/broadcomMFD.explorer-for-endevor?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor)
 [![GitHub issues](https://img.shields.io/github/issues-raw/eclipse/che-che4z-explorer-for-endevor?style=flat-square)](https://github.com/eclipse/che-che4z-explorer-for-endevor/issues)
-[![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](http://che4z.slack.com/)
+[![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://join.slack.com/t/che4z/shared_invite/zt-22b0064vn-nBh~Fs9Fl47Prp5ItWOLWw)
 
 The Explorer for Endevor extension modernizes the way you interact with [Endevor](https://www.broadcom.com/products/mainframe/devops-app-development/app/endevor-software-change-manager), offering a user-friendly and convenient way to work with elements and inventory locations.
 
@@ -192,7 +192,7 @@ The Data Editor for Mainframe extension for VS Code adds a modern user interface
 ## [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe)
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/broadcomMFD.debugger-for-mainframe?color=brighgreen&label=Marketplace&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe)
 [![GitHub issues](https://img.shields.io/github/issues-raw/broadcomMFD/debugger-for-mainframe?style=flat-square)](https://github.com/BroadcomMFD/debugger-for-mainframe/issues)
-[![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](http://che4z.slack.com/)
+[![slack](https://img.shields.io/badge/chat-on%20Slack-blue?style=flat-square)](https://join.slack.com/t/che4z/shared_invite/zt-22b0064vn-nBh~Fs9Fl47Prp5ItWOLWw)
 
 Debugger for Mainframe provides the debugging interface to [InterTest™ for CICS](https://www.broadcom.com/products/mainframe/devops-app-development/testing-quality/intertest-cics) and [InterTest™ Batch](https://www.broadcom.com/products/mainframe/testing-and-quality/intertest-batch). This extension provides a modern debug experience for CICS and Batch applications written in COBOL.
 
