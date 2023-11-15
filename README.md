@@ -32,6 +32,8 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
   - With the help of the Explorer for Endevor extension you can retrieve, browse, and search Endevor elements in your IDE.
 - **Mainframe operations**.
   - With Zowe Explorer you can issue TSO and MVS commands and submit JCL.
+ 
+For an interactive overview of Code4z, see the [Code4z Developer Cockpit](https://mainframe.broadcom.com/code4z-developer-cockpit).
   
 ### Sample Workflows
 
