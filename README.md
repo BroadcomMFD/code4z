@@ -33,7 +33,7 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
 - **Mainframe operations**.
   - With Zowe Explorer you can issue TSO and MVS commands and submit JCL.
  
-For an interactive overview of Code4z, see the [Code4z Developer Cockpit](https://mainframe.broadcom.com/code4z-developer-cockpit)
+For an interactive overview of Code4z, see the [Code4z Developer Cockpit](https://mainframe.broadcom.com/code4z-developer-cockpit).
   
 ### Sample Workflows
 
