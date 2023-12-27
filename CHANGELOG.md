@@ -1,3 +1,7 @@
+## [2.1.2] 2023-12-XX
+
+- Readme update
+
 ## [2.1.1] 2023-07-13
 
 - Readme update
