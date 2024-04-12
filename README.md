@@ -24,7 +24,7 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
 
 ## Extensions
 
-The Code4z extension pack contains the following extensions:
+Code4z contains the following extensions:
 - [Abend Analyzer for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.abend-analyzer)
   - Enables you to view abend reports and symbolic data in your IDE.
 - [COBOL Control Flow](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf)
