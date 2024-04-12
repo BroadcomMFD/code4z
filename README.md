@@ -44,5 +44,6 @@ The Code4z extension pack contains the following extensions:
 
 ## Support
 
-> **Code4z product documentation is available on [Techdocs](https://techdocs.broadcom.com/code4z)**.
-> For an interactive overview of Code4z, see the [Code4z Developer Cockpit](https://mainframe.broadcom.com/code4z-developer-cockpit).
+**Code4z product documentation is available on [Techdocs](https://techdocs.broadcom.com/code4z)**.
+
+For an interactive overview of Code4z, see the [Code4z Developer Cockpit](https://mainframe.broadcom.com/code4z-developer-cockpit).
