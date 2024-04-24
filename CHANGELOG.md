@@ -1,3 +1,7 @@
+## [2.1.3] 2024-04-24
+
+- Readme superseded by new documentation on Techdocs.
+
 ## [2.1.2] 2023-12-27
 
 - Readme update
