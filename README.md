@@ -9,7 +9,7 @@ Code4z is compatible with Microsoft Visual Studio Code and Github Codespaces.
 <div align="center">
   <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/master/extensions4.png" alt="Code4z Extensions: Abend Analyzer for Mainframe, COBOL Control Flow, COBOL Language Support, Data Editor for Mainframe, Debugger for Mainframe, Explorer for Endevor, HLASM Language Support and Zowe Explorer" />
 
-<a href="https://www.openmainframeproject.org/all-projects/zowe/conformance"><img alt="This extension is Zowe v2 conformant" src="https://artwork.openmainframeproject.org/other/zowe-conformant/zowev2/explorer/color/zowe-conformant-zowev2-explorer-color.png" width=20% height=20% /></a>
+<a href="https://www.openmainframeproject.org/all-projects/zowe/conformance"><img alt="This extension is Zowe v3 conformant" src="https://artwork.openmainframeproject.org/other/zowe-conformant/zowev3/explorer-vs-code/color/zowe-conformant-zowev3-explorer-vs-code-color.png" width=20% height=20% /></a>
 </div>
 
 ## How Does It Work?
