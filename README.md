@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-BROADCOM-brightgreen)](https://github.com/BroadcomMFD/code4z/blob/master/LICENSE)
 
-Code4z is an all-in-one VS Code extension pack for mainframe users working with z/OS. Code4z provides language support for COBOL and High Level Assembler for z/OS and graphical visualization of COBOL applications. The pack also includes data editing and file management tools, Explorer for Endevor, and extensions for interactive debugging, macro tracing, and abend analysis. Code4z is free to install and use.
+Code4z is an all-in-one VS Code extension pack for mainframe users working with z/OS. Code4z provides language support for several common z/OS programming languages and graphical visualization of COBOL applications. The pack also includes data editing and file management tools, Explorer for Endevor, and extensions for interactive debugging, macro tracing, and abend analysis. Code4z is free to install and use.
 
 Code4z is compatible with Microsoft Visual Studio Code and Github Codespaces.
 
@@ -16,7 +16,7 @@ Code4z is compatible with Microsoft Visual Studio Code and Github Codespaces.
 
 The Code4z extension pack simplifies your common workflows and enables you to work with COBOL and HLASM code in the same way you work with other languages in Visual Studio Code. The pack provides a modern mainframe programming experience and includes the following features:
 
-- Language support for IBM Enterprise COBOL 6.0 and high-level assembler language
+- Language support for IBM Enterprise COBOL, high-level assembler language, JCL, PL/I, and REXX.
 - Data editing and file management of mainframe data sets
 - Testing tools for CICS and Batch programs
 - Source code management integrated with Endevor
@@ -39,6 +39,12 @@ Code4z contains the following extensions:
   - Modernizes the way that you interact with Endevor inventory locations and elements.
 - [HLASM Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support)
   - Provides autocomplete, highlighting, browsing, and diagnostics for High Level Assembler code.
+- [JCL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.jcl-language-support)
+  - Provides rich language support and snippets for JCL code.
+- [PL/I Language Support](https://example)
+  - Provides rich language support for PL/I code and include files.
+- [REXX Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.lsp-for-rexx)
+  - Provides autocomplete, highlighting and diagnostics for REXX code.
 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)
   - Streamlines interaction with mainframe data sets, USS files, and jobs.
 
