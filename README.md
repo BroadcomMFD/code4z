@@ -14,7 +14,7 @@ Code4z is compatible with Microsoft Visual Studio Code and Github Codespaces.
 
 The Code4z extension pack simplifies your common workflows and enables you to work with COBOL and HLASM code in the same way you work with other languages in Visual Studio Code. The pack provides a modern mainframe programming experience and includes the following features:
 
-- Language support for IBM Enterprise COBOL, high-level assembler language, JCL, PL/I, and REXX.
+- Language support for IBM Enterprise COBOL, high-level assembler language, JCL, and PL/I.
 - Data editing and file management of mainframe data sets
 - Testing tools for CICS and Batch programs
 - Source code management integrated with Endevor
@@ -41,8 +41,6 @@ Code4z contains the following extensions:
   - Provides rich language support and snippets for JCL code.
 - [PL/I Language Support](https://example)
   - Provides rich language support for PL/I code and include files.
-- [REXX Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.lsp-for-rexx)
-  - Provides autocomplete, highlighting and diagnostics for REXX code.
 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)
   - Streamlines interaction with mainframe data sets, USS files, and jobs.
 
