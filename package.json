@@ -77,7 +77,7 @@
 					{
 						"id": "de4mtt",
 						"title": "Specify Server for Data Editor for Mainframe",
-						"description": "To use the Data Editor for Mainframe extension, specify the address of your File Master Plus Server or Zowe API ML Gateway in your extension settings. \n[Open Extension Settings](command:workbench.action.openSettings?%22@ext:BroadcomMFD.data-editor-for-mainframe%22)",
+						"description": "To use the Data Editor for Mainframe extension, specify the address of your File Master Plus Server in your extension settings. \n[Open Extension Settings](command:workbench.action.openSettings?%22@ext:BroadcomMFD.data-editor-for-mainframe%22)",
 						"media": {
 							"image": "extensions4.png",
 							"altText": "Code4z"
