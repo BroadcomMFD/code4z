@@ -1,13 +1,14 @@
 # Code4z
 
 [![License](https://img.shields.io/badge/license-BROADCOM-brightgreen)](https://github.com/BroadcomMFD/code4z/blob/master/LICENSE)
+[![Code4z](https://img.shields.io/badge/Code4z-marketplace-cc092f)](https://marketplace.visualstudio.com/search?term=code4z&target=VSCode)
 
 Code4z is an all-in-one VS Code extension pack for mainframe users working with z/OS. Code4z provides language support for several common z/OS programming languages and graphical visualization of COBOL applications. The pack also includes data editing and file management tools, Explorer for Endevor, and extensions for interactive debugging, macro tracing, and abend analysis. Code4z is free to install and use.
 
 Code4z is compatible with Microsoft Visual Studio Code and Github Codespaces.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/master/extensions4.png" alt="Code4z Extensions: Abend Analyzer for Mainframe, COBOL Control Flow, COBOL Language Support, Data Editor for Mainframe, Debugger for Mainframe, Explorer for Endevor, HLASM Language Support and Zowe Explorer" />
+  <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/master/extensions4.png" alt="Code4z Extensions: Abend Analyzer for Mainframe, COBOL Control Flow, COBOL Language Support, Data Editor for Mainframe, Debugger for Mainframe, Explorer for Endevor, HLASM Language Support, JCL Language Support, PL/I Language Support and Zowe Explorer" />
 </div>
 
 ## How Does It Work?
@@ -39,7 +40,7 @@ Code4z contains the following extensions:
   - Provides autocomplete, highlighting, browsing, and diagnostics for High Level Assembler code.
 - [JCL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.jcl-language-support)
   - Provides rich language support and snippets for JCL code.
-- [PL/I Language Support](https://example)
+- [PL/I Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.pli-language-support)
   - Provides rich language support for PL/I code and include files.
 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)
   - Streamlines interaction with mainframe data sets, USS files, and jobs.
