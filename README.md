@@ -13,7 +13,7 @@ Code4z Foundation is an all-in-one VS Code extension pack for mainframe users wo
 The Code4z Foundation pack is compatible with Microsoft Visual Studio Code and Github Codespaces.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/main/foundationpack.png" alt="Code4z Foundation Extensions: Abend Analyzer for Mainframe, COBOL Control Flow, COBOL Language Support, Data Editor for Mainframe, Debugger for Mainframe, Explorer for Endevor, HLASM Language Support, JCL Language Support, PL/I Language Support and Zowe Explorer" />
+  <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/main/foundationpack.png" width=611 height=593 alt="Code4z Foundation Extensions: Abend Analyzer for Mainframe, COBOL Control Flow, COBOL Language Support, Data Editor for Mainframe, Debugger for Mainframe, Explorer for Endevor, HLASM Language Support, JCL Language Support, PL/I Language Support and Zowe Explorer" />
 </div>
 
 ## How Does It Work?
