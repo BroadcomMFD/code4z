@@ -5,21 +5,21 @@
 
 </div>
 
-# Code4z
+# Code4z Foundation
 
-Code4z is an all-in-one VS Code extension pack for mainframe users working with z/OS. Code4z provides language support for several common z/OS programming languages and graphical visualization of COBOL applications. The pack also includes data editing and file management tools, Explorer for Endevor, and extensions for interactive debugging, macro tracing, and abend analysis. Code4z is free to install and use.
+Code4z Foundation is an all-in-one VS Code extension pack for mainframe users working with z/OS. Code4z Foundation provides language support for several common z/OS programming languages and graphical visualization of COBOL applications. The pack also includes data editing and file management tools, Explorer for Endevor, and extensions for interactive debugging, macro tracing, and abend analysis. Code4z Foundation is free to install and use.
 
-Code4z is compatible with Microsoft Visual Studio Code and Github Codespaces.
+The Code4z Foundation pack is compatible with Microsoft Visual Studio Code and Github Codespaces.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/master/extensions4.png" alt="Code4z Extensions: Abend Analyzer for Mainframe, COBOL Control Flow, COBOL Language Support, Data Editor for Mainframe, Debugger for Mainframe, Explorer for Endevor, HLASM Language Support, JCL Language Support, PL/I Language Support and Zowe Explorer" />
+  <img src="https://raw.githubusercontent.com/BroadcomMFD/code4z/master/extensions4.png" alt="Code4z Foundation Extensions: Abend Analyzer for Mainframe, COBOL Control Flow, COBOL Language Support, Data Editor for Mainframe, Debugger for Mainframe, Explorer for Endevor, HLASM Language Support, JCL Language Support, PL/I Language Support and Zowe Explorer" />
 </div>
 
 ## How Does It Work?
 
-The Code4z extension pack simplifies your common workflows and enables you to work with COBOL and HLASM code in the same way you work with other languages in Visual Studio Code. The pack provides a modern mainframe programming experience and includes the following features:
+The Code4z Foundation pack simplifies your common workflows and enables you to work with COBOL, HLASM, JCL, and PL/I code in the same way you work with other languages in Visual Studio Code. The pack provides a modern mainframe programming experience and includes the following features:
 
-- Language support for IBM Enterprise COBOL, high-level assembler language, JCL, and PL/I.
+- Language support for IBM Enterprise COBOL, HLASM, JCL, and PL/I.
 - Data editing and file management of mainframe data sets
 - Testing tools for CICS and Batch programs
 - Source code management integrated with Endevor
@@ -27,7 +27,7 @@ The Code4z extension pack simplifies your common workflows and enables you to wo
 
 ## Extensions
 
-Code4z contains the following extensions:
+Code4z Foundation contains the following extensions:
 - [Abend Analyzer for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.abend-analyzer)
   - Enables you to view abend reports and symbolic data in your IDE.
 - [COBOL Control Flow](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf)
@@ -51,6 +51,6 @@ Code4z contains the following extensions:
 
 ## Support
 
-**Code4z product documentation is available on [Techdocs](https://techdocs.broadcom.com/code4z)**.
+**Product documentation for Code4z Foundation is available on [Techdocs](https://techdocs.broadcom.com/code4z)**.
 
-For an interactive overview of Code4z, see the [Code4z Developer Cockpit](https://mainframe.broadcom.com/code4z-developer-cockpit).
+For an interactive overview of the Code4z Foundation pack, see the [Code4z Developer Cockpit](https://mainframe.broadcom.com/code4z-developer-cockpit).
