@@ -76,7 +76,7 @@
 					},
 					{
 						"id": "de4mtt",
-						"title": "Specify Server for Data Editor for Mainframe",
+						"title": "Specify server for Data Editor for Mainframe",
 						"description": "To use the Data Editor for Mainframe extension, specify the address of your File Master Plus Server in your extension settings. \n[Open Extension Settings](command:workbench.action.openSettings?%22@ext:BroadcomMFD.data-editor-for-mainframe%22)",
 						"media": {
 							"image": "extensions4.png",
@@ -87,7 +87,7 @@
 					},
 					{
 						"id": "aa4mtt",
-						"title": "Add a connection to your Server for Abend Analyzer for Mainframe",
+						"title": "Add a connection to your server for Abend Analyzer for Mainframe",
 						"description": "To use the Abend Analyzer for Mainframe extension, add a connection and specify the address of your Testing Tools Server or Zowe API ML Gateway. \n[Add a connection](command:symdump.newConnection)",
 						"media": {
 							"image": "extensions4.png",
