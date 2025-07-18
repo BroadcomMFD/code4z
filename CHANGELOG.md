@@ -1,3 +1,11 @@
+## [2.2.0] 2025-07-XX
+
+- JCL Language Support extension added
+- PL/I Language Support extension added
+- Extension pack renamed to Code4z Foundations
+- Day 1 task checklist walkthrough update
+- Readme update
+
 ## [2.1.3] 2024-04-24
 
 - Readme superseded by new documentation on Techdocs.

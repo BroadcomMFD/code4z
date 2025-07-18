@@ -1,9 +1,9 @@
 {
 	"name": "code4z-extension-pack",
 	"license": "SEE LICENSE IN LICENSE",
-	"displayName": "Code4z",
-	"description": "Extension pack for Mainframe users working with z/OS applications and tools",
-	"version": "2.1.3",
+	"displayName": "Code4z Foundation",
+	"description": "Code4z extension pack for Mainframe users working with z/OS applications and tools",
+	"version": "2.2.0",
 	"publisher": "broadcomMFD",
 	"icon": "icon.png",
 	"galleryBanner": {
@@ -19,8 +19,8 @@
 		"mainframe",
 		"hlasm",
 		"cobol",
-		"lsp",
-		"explorer",
+		"jcl",
+		"pl/i",
 		"endevor",
 		"debugger",
 		"abend"
@@ -41,21 +41,23 @@
 		"broadcomMFD.debugger-for-mainframe",
 		"broadcomMFD.ccf",
 		"broadcomMFD.data-editor-for-mainframe",
-		"broadcomMFD.abend-analyzer"
+		"broadcomMFD.abend-analyzer",
+                "broadcomMFD.pli-language-support",
+		"broadcomMFD.jcl-language-support"
 	],
 	"contributes": {
 		"walkthroughs": [
 			{
 				"id": "Code4zDay1",
-				"title": "Code4z Day 1 Task Checklist",
-				"description": "Use this checklist to execute the key tasks that we recommend before you start using Code4z extensions.",
+				"title": "Code4z Foundation Day 1 Task Checklist",
+				"description": "Use this checklist to execute the key tasks that we recommend before you start using Code4z Foundation extensions.",
 				"steps": [
 					{
 						"id": "profile",
 						"title": "Set Up a Zowe Profile",
 						"description": "Create a Zowe Profile and add it to the Data Sets view in Zowe Explorer to connect to the mainframe and open mainframe data sets on VS Code, submit JCL, and perform other actions. To unlock all features, we recommend that you include your mainframe credentials within your Zowe Profile. \n[Add Zowe Profile](command:zowe.ds.addSession)",
 						"media": {
-							"image": "extensions4.png",
+							"image": "foundationpack.png",
 							"altText": "Code4z"
 						},
 						"completionEvents": [ "onCommand:zowe.ds.addSession"
@@ -74,8 +76,8 @@
 					},
 					{
 						"id": "de4mtt",
-						"title": "Specify Testing Tools Server for Data Editor for Mainframe",
-						"description": "To use the Data Editor for Mainframe extension, specify the host and port of your Testing Tools Server in your extension settings. \n[Open Extension Settings](command:workbench.action.openSettings?%22@ext:BroadcomMFD.data-editor-for-mainframe%22)",
+						"title": "Specify server for Data Editor for Mainframe",
+						"description": "To use the Data Editor for Mainframe extension, specify the address of your File Master Plus Server in your extension settings. \n[Open Extension Settings](command:workbench.action.openSettings?%22@ext:BroadcomMFD.data-editor-for-mainframe%22)",
 						"media": {
 							"image": "extensions4.png",
 							"altText": "Code4z"
@@ -85,8 +87,8 @@
 					},
 					{
 						"id": "aa4mtt",
-						"title": "Add a connection to your Testing Tools Server for Abend Analyzer for Mainframe",
-						"description": "To use the Abend Analyzer for Mainframe extension, add a connection and specify the host and port of your Testing Tools Server. \n[Add a connection](command:symdump.newConnection)",
+						"title": "Add a connection to your server for Abend Analyzer for Mainframe",
+						"description": "To use the Abend Analyzer for Mainframe extension, add a connection and specify the address of your Testing Tools Server or Zowe API ML Gateway. \n[Add a connection](command:symdump.newConnection)",
 						"media": {
 							"image": "extensions4.png",
 							"altText": "Code4z"
