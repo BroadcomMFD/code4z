@@ -1,4 +1,4 @@
-## [2.2.0] 2025-07-24
+## [2.2.0] 2025-07-25
 
 - JCL Language Support extension added
 - PL/I Language Support extension added
