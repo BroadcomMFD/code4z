@@ -1,3 +1,7 @@
+## [2.2.1] 2025-07-28
+
+- Readme update
+  
 ## [2.2.0] 2025-07-28
 
 - JCL Language Support extension added
