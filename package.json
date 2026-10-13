@@ -13,6 +13,10 @@
 	"engines": {
 		"vscode": "^1.10.0"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/BroadcomMFD/code4z.git"
+	},
 	"keywords": [
 		"z/OS",
 		"zowe",
@@ -28,11 +32,6 @@
 	"categories": [
 		"Extension Packs"
 	],
-	"devDependencies": {
-		"@semantic-release/changelog": "^5.0.0",
-		"@semantic-release/exec": "^5.0.0",
-		"semantic-release": "^17.0.7"
-	},
 	"extensionPack": [
 		"broadcomMFD.cobol-language-support",
 		"Zowe.vscode-extension-for-zowe",
